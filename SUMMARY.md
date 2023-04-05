@@ -25,15 +25,15 @@
   * [학생 정보 추가](get-started/student/add-student.md)
   * [학생 정보 검색/수정/삭제](get-started/student/add-student-1.md)
   * [학생을 학급에 입반 시키기](get-started/student/undefined.md)
-* [수납 처리 하기 (추가 예정)](get-started/payments/README.md)
-  * [연동 결제 POS 신청](get-started/payments/allthatpay.md)
-  * [맥가이 연동 POS 이용 시](get-started/payments/pos.md)
-  * [미연동 POS 이용 시](get-started/payments/pos-1.md)
-  * [문자결제(결제선생) 사용하기](get-started/payments/undefined.md)
+
+## 💳 수납 관리 <a href="#payments" id="payments"></a>
+
+* [연동 결제 POS 신청](payments/allthatpay.md)
+* [문자결제(결제선생) 사용하기](payments/undefined.md)
 
 ## 🏠 홈페이지 설정 <a href="#homepage" id="homepage"></a>
 
-* [맥가이와 학원 홈페이지 연동하기](homepage/link.md)
+* [맥가이와 학원 홈페이지 연동하기](homepage/undefined.md)
 * [홈페이지 기본 구성 살펴보기](homepage/general.md)
 * [홈페이지 세부 설정하기](homepage/settings/README.md)
   * [기본 설정](homepage/settings/basic-settings.md)
