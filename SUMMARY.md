@@ -26,7 +26,7 @@
   * [학생 정보 검색/수정/삭제](get-started/student/add-student-1.md)
   * [학생을 학급에 입반 시키기](get-started/student/undefined.md)
 
-## 💳 수납 관리 <a href="#payments" id="payments"></a>
+## 💳 수납 관리 (작성 중) <a href="#payments" id="payments"></a>
 
 * [연동 결제 POS 신청](payments/allthatpay.md)
 * [문자결제(결제선생) 사용하기](payments/undefined.md)
