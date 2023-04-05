@@ -33,7 +33,7 @@
 
 ## 🏠 홈페이지 설정 <a href="#homepage" id="homepage"></a>
 
-* [맥가이와 학원 홈페이지 연동하기](homepage/undefined.md)
+* [맥가이와 학원 홈페이지 연동하기](homepage/link.md)
 * [홈페이지 기본 구성 살펴보기](homepage/general.md)
 * [홈페이지 세부 설정하기](homepage/settings/README.md)
   * [기본 설정](homepage/settings/basic-settings.md)
