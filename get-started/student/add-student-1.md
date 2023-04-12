@@ -37,7 +37,7 @@ description: 학생 정보를 맥가이에 추가하고 관리하는 방법을 �
 학생을 검색하여 선택하고 우측 상단에 위치한 <img src="../../.gitbook/assets/btn_삭제.png" alt="" data-size="line">를 눌러 최종 확인 후 삭제합니다.
 
 {% hint style="danger" %}
-**삭제는 신중히** :thinking:****
+**삭제는 신중히** :thinking:
 
 중복되는 학생이 있거나 해당 학생의 정보가 절대 필요하지 않은 경우에만 삭제를 해주세요 .
 {% endhint %}

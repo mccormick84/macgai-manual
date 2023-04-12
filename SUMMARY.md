@@ -25,6 +25,9 @@
   * [학생 정보 추가](get-started/student/add-student.md)
   * [학생 정보 검색/수정/삭제](get-started/student/add-student-1.md)
   * [학생을 학급에 입반 시키기](get-started/student/undefined.md)
+* [문자 보내기](get-started/send-msg/README.md)
+  * [보낸 문자 확인하기](get-started/send-msg/result.md)
+  * [문자 발신 번호 변경 및 추가](get-started/send-msg/add-hp.md)
 
 ## 💳 수납 관리 (작성 중) <a href="#payments" id="payments"></a>
 

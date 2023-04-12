@@ -5,7 +5,7 @@ description: 수업 스케줄을 생성합니다. 스케줄이 만들어지면 �
 # 수업 스케줄 만들기
 
 {% hint style="info" %}
-**이용 메뉴**: 기본메뉴 → 학급관리 → ** **<mark style="color:blue;">**학급관리**</mark>
+**이용 메뉴**: 기본메뉴 → 학급관리 → <mark style="color:blue;">**학급관리**</mark>
 {% endhint %}
 
 ## 1. 수업 일정 입력하기
@@ -96,13 +96,13 @@ description: 수업 스케줄을 생성합니다. 스케줄이 만들어지면 �
 
 {% tabs %}
 {% tab title="전체시간표" %}
-🧭️  ****  기본메뉴 → 학급관리 → <mark style="color:blue;">**전체시간표**</mark>
+🧭️  기본메뉴 → 학급관리 → <mark style="color:blue;">**전체시간표**</mark>
 
 <figure><img src="../../.gitbook/assets/전체시간표_월시간표생성.png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="학급관리" %}
-🧭  ****  기본메뉴 → 학급관리 → <mark style="color:blue;">**학급관리**</mark>
+🧭  기본메뉴 → 학급관리 → <mark style="color:blue;">**학급관리**</mark>
 
 <figure><img src="../../.gitbook/assets/학급관리_월시간표생성.png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
