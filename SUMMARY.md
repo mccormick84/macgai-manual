@@ -32,7 +32,11 @@
 ## 💳 수납 관리 (작성 중) <a href="#payments" id="payments"></a>
 
 * [연동 결제 POS 신청](payments/allthatpay.md)
-* [문자결제(결제선생) 사용하기](payments/undefined.md)
+* [문자결제(결제선생) 사용하기](payments/payssam/README.md)
+  * [결제선생 가입하기](payments/payssam/signup.md)
+  * [결제 알림톡 발송](payments/payssam/send.md)
+  * [청구서 파기와 결제 취소](payments/payssam/cancel.md)
+  * [결제선생 매니저 사이트](payments/payssam/manager.md)
 
 ## 🏠 홈페이지 설정 <a href="#homepage" id="homepage"></a>
 
