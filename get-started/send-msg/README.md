@@ -32,7 +32,7 @@ description: 맥가이 내에서 문자를 보내는 방법에 대해 알아봅�
 
 ### 1. 전송 대상자 선택
 
-먼저 상단 검색 창에서 조건을 지정하고 <img src="../../.gitbook/assets/number-1.png" alt="" data-size="line"><img src="../../.gitbook/assets/btn_검색.png" alt="" data-size="line"> 버튼을 누르면 **전송 대상자 선택**(검색 수) 목록이 나타납니다. <img src="../../.gitbook/assets/number-2.png" alt="" data-size="line"> 체크 박스를 눌러 학생 또는 학부모를 선택하고 <img src="../../.gitbook/assets/number-3.png" alt="" data-size="line"> ➡️ 버튼을 누르면 우측의 **전송대상자** 목록으로 이동됩니다.
+먼저 상단 검색 창에서 조건을 지정하고 <img src="../../.gitbook/assets/number-1.png" alt="" data-size="line"><img src="../../.gitbook/assets/btn_검색 (1).png" alt="" data-size="line"> 버튼을 누르면 **전송 대상자 선택**(검색 수) 목록이 나타납니다. <img src="../../.gitbook/assets/number-2.png" alt="" data-size="line"> 체크 박스를 눌러 학생 또는 학부모를 선택하고 <img src="../../.gitbook/assets/number-3.png" alt="" data-size="line"> ➡️ 버튼을 누르면 우측의 **전송대상자** 목록으로 이동됩니다.
 
 <img src="../../.gitbook/assets/number-4.png" alt="" data-size="line"> <img src="../../.gitbook/assets/btn_미리보기.png" alt="" data-size="line"> : 문자의 내용이 작성되면 보낼 문자를 미리 확인하실 수 있습니다.
 

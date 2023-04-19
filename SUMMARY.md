@@ -38,6 +38,23 @@
   * [청구서 파기와 결제 취소](payments/payssam/cancel.md)
   * [결제선생 매니저 사이트](payments/payssam/manager.md)
 
+## 💯 시험기능 사용하기 <a href="#test" id="test"></a>
+
+* [시험 추가와 관리](test/add-test/README.md)
+  * [시험 생성과 수정](test/add-test/new.md)
+  * [시험종류 관리](test/add-test/category.md)
+  * [출력프로그램 (성적표 양식)](test/add-test/undefined.md)
+* [OMR을 이용한 오프라인 시험](test/omr/README.md)
+  * [맥가이앱 설치](test/omr/mgapp.md)
+  * [OMR 인쇄와 편집](test/omr/print.md)
+  * [시험 진행과 결과 채점](test/omr/scoring.md)
+  * [시험 결과 수동 채점](test/omr/undefined.md)
+* [온라인 평가 설정과 진행](test/online.md)
+* [성적 결과 관리](test/test-result/README.md)
+  * [시험 별 결과 확인](test/test-result/undefined.md)
+  * [등급컷 추가](test/test-result/undefined-1.md)
+  * [성적표 인쇄 및 문자 발송](test/test-result/undefined-2.md)
+
 ## 🏠 홈페이지 설정 <a href="#homepage" id="homepage"></a>
 
 * [맥가이와 학원 홈페이지 연동하기](homepage/undefined.md)

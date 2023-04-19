@@ -24,7 +24,7 @@ description: 학생 정보를 맥가이에 추가하고 관리하는 방법을 �
 <figure><img src="../../.gitbook/assets/학생검색_2.png" alt=""><figcaption></figcaption></figure>
 
 1. &#x20;검색할 키워드를 입력해주세요. 학생명, 학부모명, 연락처, 학교명으로 검색이 가능합니다.
-2. <img src="../../.gitbook/assets/btn_검색.png" alt="" data-size="line"> 버튼 또는 **엔터**키를 눌러 진행합니다.
+2. <img src="../../.gitbook/assets/btn_검색 (1).png" alt="" data-size="line"> 버튼 또는 **엔터**키를 눌러 진행합니다.
 3. 조건에 맞는 학생의 목록이 아래에 나타납니다. 입력한 조건과 일치하는 항목은 강조 표시 됩니다.
 4. 원하는 학생이 위치한 행의 오른쪽 끝의  <img src="../../.gitbook/assets/btn_상세보기.png" alt="" data-size="line">를 누르면 **학생관리** 메뉴로 이동해 학생을 선택하여 보여줍니다.
 
