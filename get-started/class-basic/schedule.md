@@ -45,7 +45,7 @@ description: 수업 스케줄을 생성합니다. 스케줄이 만들어지면 �
 * 해당 학급의 담임인 경우
 * 해당 스케줄의 담당으로 지정되어 있는 직원
 * 조회용 관리자로 지정되어 있는 경우&#x20;
-  * [조회용 관리자 지정 방법 →](../staff-basic/adding.md#2.)
+  * [조회용 관리자 지정 방법 →](../staff-basic/staff.md#2.)
 {% endhint %}
 
 {% hint style="warning" %}
