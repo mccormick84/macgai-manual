@@ -4,6 +4,8 @@ description: 홈페이지의 색상과 검색 시 노출 되는 정보를 변경
 
 # 기본 설정
 
+↖ 상위항목: [홈페이지 세부 설정하기](./)
+
 ## 설정 항목
 
 <figure><img src="../../.gitbook/assets/홈페이지 기본 설정 (1).png" alt=""><figcaption></figcaption></figure>

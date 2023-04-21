@@ -4,6 +4,8 @@ description: 홈페이지 내에서 사용할 메뉴 및 인트로를 설정할 
 
 # 메뉴 및 인트로 설정
 
+↖ 상위항목: [홈페이지 세부 설정하기](./)
+
 ## 1. 메뉴 및 인트로
 
 <figure><img src="../../.gitbook/assets/메뉴 및 인트로.png" alt=""><figcaption></figcaption></figure>

@@ -4,11 +4,13 @@ description: 수업 시작 시간 목록을 만듭니다.
 
 # 교시 시간 설정
 
+↖ 상위항목: [학급 공통 정보 설정](./)
+
 ## 교시 시간 설정
 
 수업 시작 시간을 설정할 수 있습니다.
 
-<figure><img src="../../../.gitbook/assets/교시시간설정.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/교시시간설정.png" alt=""><figcaption></figcaption></figure>
 
 1. 행을 삭제합니다.
 2. 수업 시작 시간을 선택합니다. 1시간 / 5분 단위로 선택할 수 있어요.
@@ -21,4 +23,4 @@ description: 수업 시작 시간 목록을 만듭니다.
 
 #### 설정 된 교시 시간은 수업계획정보 추가 시 <mark style="color:green;">**수업 시작 시간**</mark> 지정에 사용됩니다.
 
-<figure><img src="../../../.gitbook/assets/수업시작시간 선택.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/수업시작시간 선택.png" alt=""><figcaption></figcaption></figure>
