@@ -25,19 +25,30 @@
   * [학생 정보 추가](get-started/student/adding.md)
   * [학생 정보 검색/수정/삭제](get-started/student/searching.md)
   * [학생을 학급에 입반 시키기](get-started/student/class-in.md)
+  * [수납 항목 가져오기](get-started/student/undefined.md)
 * [문자 보내기](get-started/send-msg/README.md)
   * [보낸 문자 확인하기](get-started/send-msg/result.md)
   * [문자 발신 번호 변경 및 추가](get-started/send-msg/add-hp.md)
 
-## 💳 수납 관리 (작성 중) <a href="#payments" id="payments"></a>
+## 💳 수납 관리 <a href="#payments" id="payments"></a>
 
 * [연동 결제 POS 신청](payments/allthatpay.md)
+* [수강료 관리](payments/tuition-mgmt/README.md)
+  * [수강료 할인 적용](payments/tuition-mgmt/discount.md)
+  * [월 수강료 생성하기](payments/tuition-mgmt/monthly.md)
+  * [수강료 수납](payments/tuition-mgmt/charging.md)
+  * [결제 취소하기](payments/tuition-mgmt/cancel.md)
+  * [미납 조회와 안내](payments/tuition-mgmt/unpaid.md)
+* [청구 및 수납 현황 조회](payments/lookup/README.md)
+  * [청구 현황 조회](payments/lookup/billing.md)
+  * [수납 결과 조회](payments/lookup/result.md)
+  * [기타 수납 현황 조회](payments/lookup/etc.md)
 * [문자결제(결제선생) 사용하기](payments/payssam/README.md)
   * [결제선생 가입하기](payments/payssam/signup.md)
   * [결제 알림톡 발송](payments/payssam/send.md)
   * [청구서 파기와 결제 취소](payments/payssam/cancel.md)
   * [결제선생 매니저 사이트](payments/payssam/manager.md)
-* [결제 관련 정보 설정](payments/undefined.md)
+* [결제 관련 정보 설정](payments/info.md)
 
 ## 💯 시험기능 사용하기 <a href="#test" id="test"></a>
 

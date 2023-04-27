@@ -14,7 +14,7 @@ description: 맥가이 내에서 문자를 보내는 방법에 대해 알아봅�
 
 특정 번호를 이용해 문자를 보내려면 발신 번호 사전 등록이 필요합니다.&#x20;
 
-* 맥가이 접속 후 우측 하단의 <img src="../../.gitbook/assets/맥가이_상담버튼_blue.png" alt="" data-size="line">**이용 문의**를 통해 신청 하시거나
+* 맥가이 접속 후 우측 하단의 **이용 문의**를 통해 신청 하시거나
   * 신청 경로: 새 문의하기 → 각종 신청 및 요청 → **문자메시지 발신번호 등록**
 * 정현소프트(02-469-5480)으로 연락주셔서 신청하시면 됩니다.
 
@@ -32,9 +32,9 @@ description: 맥가이 내에서 문자를 보내는 방법에 대해 알아봅�
 
 ### 1. 전송 대상자 선택
 
-먼저 상단 검색 창에서 조건을 지정하고 <img src="../../.gitbook/assets/number-1.png" alt="" data-size="line"><img src="../../.gitbook/assets/btn_검색 (1).png" alt="" data-size="line"> 버튼을 누르면 **전송 대상자 선택**(검색 수) 목록이 나타납니다. <img src="../../.gitbook/assets/number-2.png" alt="" data-size="line"> 체크 박스를 눌러 학생 또는 학부모를 선택하고 <img src="../../.gitbook/assets/number-3.png" alt="" data-size="line"> ➡️ 버튼을 누르면 우측의 **전송대상자** 목록으로 이동됩니다.
+먼저 상단 검색 창에서 조건을 지정하고 1) <img src="../../.gitbook/assets/btn_검색 (1).png" alt="" data-size="line"> 버튼을 누르면 **전송 대상자 선택**(검색 수) 목록이 나타납니다. 2) 체크 박스를 눌러 학생 또는 학부모를 선택하고 3) ➡️ 버튼을 누르면 우측의 **전송대상자** 목록으로 이동됩니다.
 
-<img src="../../.gitbook/assets/number-4.png" alt="" data-size="line"> <img src="../../.gitbook/assets/btn_미리보기.png" alt="" data-size="line"> : 문자의 내용이 작성되면 보낼 문자를 미리 확인하실 수 있습니다.
+4\) <img src="../../.gitbook/assets/btn_미리보기.png" alt="" data-size="line"> : 문자의 내용이 작성되면 보낼 문자를 미리 확인하실 수 있습니다.
 
 <figure><img src="../../.gitbook/assets/전송대상자선택 (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -46,11 +46,10 @@ description: 맥가이 내에서 문자를 보내는 방법에 대해 알아봅�
 
 <figure><img src="../../.gitbook/assets/문자보내기_직접작성.png" alt=""><figcaption></figcaption></figure>
 
-<img src="../../.gitbook/assets/number-1.png" alt="" data-size="line"> 보낼 내용을 작성합니다. 작성 시 미리 설정 된 <img src="../../.gitbook/assets/number-2.png" alt="" data-size="line">**\[치환값]**을 이용할 수 있습니다. 내용이 80 byte (한글 40자)가 넘어가면 LMS로 자동 변경됩니다.
-
-<img src="../../.gitbook/assets/number-3.png" alt="" data-size="line"> **다시작성**: 작성 중인 내용이 모두 지워집니다.&#x20;
-
-<img src="../../.gitbook/assets/number-4 (1).png" alt="" data-size="line"> **첨부파일**: 이미지를 추가합니다. 이미지를 추가하면 MMS로 전환되며 발송 금액이 달라지니 주의하세요!
+1. &#x20;보낼 내용을 작성합니다. 내용이 80 byte (한글 40자)가 넘어가면 LMS로 자동 변경됩니다.
+2. 작성 시 미리 설정 된 **\[치환값]**을 이용할 수 있습니다
+3. **다시작성**: 작성 중인 내용이 모두 지워집니다.&#x20;
+4. **첨부파일**: 이미지를 추가합니다. 이미지를 추가하면 MMS로 전환되며 발송 금액이 달라지니 주의하세요!
 
 {% hint style="info" %}
 **치환값**: \[내용]으로 미리 설정된 값으로 학생 정보에 따라 다른 값이 나가게 됩니다. 문자를 보내는 메뉴에 따라 사용할 수 있는 치환값은 다를 수 있습니다. 사용할 수 있는 치환값에 대한 정보는 각 메뉴에서 볼 수 있습니다.
@@ -58,7 +57,10 @@ description: 맥가이 내에서 문자를 보내는 방법에 대해 알아봅�
 
 #### 2) 저장메시지 사용
 
-미리 저장된 메시지 템플릿을 가져와 문자 내용을 작성할 수 있어요. <img src="../../.gitbook/assets/number-1.png" alt="" data-size="line"> 문자 입력 필드 왼쪽의 저장 메시지 목록에서 제목을 선택하면 자동으로 입력 필드가 채워집니다. <img src="../../.gitbook/assets/number-2.png" alt="" data-size="line"> 필요한 경우 직접 내용을 수정하여 사용할 수 있어요 (저장된 메시지는 수정되지 않습니다)
+미리 저장된 메시지 템플릿을 가져와 문자 내용을 작성할 수 있어요.&#x20;
+
+1. 문자 입력 필드 왼쪽의 저장 메시지 목록에서 제목을 선택하면 자동으로 입력 필드가 채워집니다.&#x20;
+2. 필요한 경우 직접 내용을 수정하여 사용할 수 있어요 (저장된 메시지는 수정되지 않습니다)
 
 * **저장메시지**를 관리하는 방법은 [저장메시지 관리 →](./#undefined-6) 를 참고해주세요.
 
