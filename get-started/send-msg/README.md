@@ -46,7 +46,7 @@ description: 맥가이 내에서 문자를 보내는 방법에 대해 알아봅�
 
 <figure><img src="../../.gitbook/assets/문자보내기_직접작성.png" alt=""><figcaption></figcaption></figure>
 
-1. &#x20;보낼 내용을 작성합니다. 내용이 80 byte (한글 40자)가 넘어가면 LMS로 자동 변경됩니다.
+1. 보낼 내용을 작성합니다. 내용이 80 byte (한글 40자)가 넘어가면 LMS로 자동 변경됩니다.
 2. 작성 시 미리 설정 된 **\[치환값]**을 이용할 수 있습니다
 3. **다시작성**: 작성 중인 내용이 모두 지워집니다.&#x20;
 4. **첨부파일**: 이미지를 추가합니다. 이미지를 추가하면 MMS로 전환되며 발송 금액이 달라지니 주의하세요!
@@ -94,11 +94,11 @@ description: 맥가이 내에서 문자를 보내는 방법에 대해 알아봅�
 
 <figure><img src="../../.gitbook/assets/저장메시지.png" alt=""><figcaption></figcaption></figure>
 
-<img src="../../.gitbook/assets/number-1.png" alt="" data-size="line"> 메시지 필드에 내용을 입력합니다. <img src="../../.gitbook/assets/number-2.png" alt="" data-size="line"> 저장메시지의 제목을 입력합니다.
-
-<img src="../../.gitbook/assets/number-3.png" alt="" data-size="line"> 학원 내 공유 여부를 선택합니다. 체크 상태에서 저장 시 모든 직원이 해당 저장메시지를 사용할 수 있어요.
-
-<img src="../../.gitbook/assets/number-4.png" alt="" data-size="line"> <img src="../../.gitbook/assets/btn_문자저장.png" alt="" data-size="line">: 메시지를 저장합니다. <img src="../../.gitbook/assets/number-5.png" alt="" data-size="line"> 저장된 메시지가 표시 됩니다.
+1. 메시지 필드에 내용을 입력합니다.&#x20;
+2. &#x20;저장메시지의 제목을 입력합니다.
+3. 학원 내 공유 여부를 선택합니다. 체크 상태에서 저장 시 모든 직원이 해당 저장메시지를 사용할 수 있어요.
+4. <img src="../../.gitbook/assets/btn_문자저장.png" alt="" data-size="line">: 메시지를 저장합니다.
+5. 저장된 메시지가 표시 됩니다.
 
 ### 저장 메시지 삭제
 

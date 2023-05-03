@@ -1,8 +1,10 @@
 # Table of contents
 
+* [💁 맥가이 사용 가이드 안내](README.md)
+
 ## 🆕 맥가이 시작하기 <a href="#get-started" id="get-started"></a>
 
-* [맥가이 접속하기](README.md)
+* [맥가이 접속하기](<README (1).md>)
 * [사용료 및 포인트 결제](get-started/fee/README.md)
   * [월 사용료 결제](get-started/fee/payment.md)
   * [포인트 결제](get-started/fee/payment-1.md)
@@ -32,7 +34,7 @@
 
 ## 💳 수납 관리 <a href="#payments" id="payments"></a>
 
-* [연동 결제 POS 신청](payments/allthatpay.md)
+* [연동 결제 단말기 신청](payments/allthatpay.md)
 * [수강료 관리](payments/tuition-mgmt/README.md)
   * [수강료 할인 적용](payments/tuition-mgmt/discount.md)
   * [월 수강료 생성하기](payments/tuition-mgmt/monthly.md)
@@ -54,7 +56,7 @@
 
 * [시험 추가와 관리](test/add-test/README.md)
   * [시험 생성과 수정](test/add-test/new.md)
-  * [시험종류 관리](test/add-test/category.md)
+  * [시험 종류 관리](test/add-test/category.md)
   * [출력프로그램 (성적표 양식)](test/add-test/form.md)
 * [OMR을 이용한 오프라인 시험](test/omr/README.md)
   * [맥가이앱 설치](test/omr/mgapp.md)
