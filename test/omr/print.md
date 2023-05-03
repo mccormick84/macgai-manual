@@ -39,6 +39,6 @@ description: 시험 진행을 위해 OMR을 인쇄하고 커스텀하는 방법�
   * 기존 OMR을 수정하는 것만 가능합니다. 원본 OMR로 되돌리려면 **원본으로**를 눌러 되돌리기를 진행해주세요.
   * **로고**, **제목**, **학번** 대체 텍스트 중 원하는 항목을 선택하여 편집 후 저장하시면 커스텀 된 OMR을 사용할 수 있습니다.
 
-### OMR 편집 예시
+### OMR 편집 예시
 
 <figure><img src="../../.gitbook/assets/OMR 변경 예시 (1).png" alt=""><figcaption></figcaption></figure>

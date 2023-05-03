@@ -1,6 +1,6 @@
 # Table of contents
 
-* [💁 맥가이 사용 가이드 안내](README.md)
+* [💁 맥가이 사용 가이드 안내](README.md)
 
 ## 🆕 맥가이 시작하기 <a href="#get-started" id="get-started"></a>
 
@@ -39,7 +39,7 @@
   * [수강료 할인 적용](payments/tuition-mgmt/discount.md)
   * [월 수강료 생성하기](payments/tuition-mgmt/monthly.md)
   * [수강료 수납](payments/tuition-mgmt/charging.md)
-  * [결제 취소하기](payments/tuition-mgmt/cancel.md)
+  * [결제 취소하기](payments/tuition-mgmt/cancel.md)
   * [미납 조회와 안내](payments/tuition-mgmt/unpaid.md)
 * [문자결제(결제선생) 사용하기](payments/payssam/README.md)
   * [결제선생 가입하기](payments/payssam/signup.md)

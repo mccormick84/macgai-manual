@@ -13,7 +13,7 @@ OMR을 이용한 시험 및 채점을 진행하기 위해서 **MacgaiApp V2**의
 <figure><img src="../../.gitbook/assets/맥가이앱 다운로드.png" alt=""><figcaption></figcaption></figure>
 
 1. 하단 메뉴에 있는 **프로그램 다운로드**를 눌러주세요.
-   * 하단 메뉴는 맥가이의 어느 위치에서든 동일하게 접근 할 수 있어요.
+   * 하단 메뉴는 맥가이의 어느 위치에서든 동일하게 접근 할 수 있어요.
 2. 팝업 창이 열리면 MacgaiAppV2 의 <img src="../../.gitbook/assets/btn_download.png" alt="" data-size="line"> 버튼을 눌러 파일을 받고 설치를 진행합니다.
 
 {% hint style="info" %}
