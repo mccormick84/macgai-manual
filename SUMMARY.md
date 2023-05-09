@@ -1,6 +1,6 @@
 # Table of contents
 
-* [💁 맥가이 사용 가이드 안내](README.md)
+* [📝 맥가이 사용 가이드 안내](README.md)
 
 ## 🆕 맥가이 시작하기 <a href="#get-started" id="get-started"></a>
 
@@ -32,7 +32,7 @@
   * [보낸 문자 확인하기](get-started/send-msg/result.md)
   * [문자 발신 번호 변경 및 추가](get-started/send-msg/add-hp.md)
 
-## 💳 수납 관리 <a href="#payments" id="payments"></a>
+## 💰 수납 관리 <a href="#payments" id="payments"></a>
 
 * [연동 결제 단말기 신청](payments/allthatpay.md)
 * [수강료 관리](payments/tuition-mgmt/README.md)
