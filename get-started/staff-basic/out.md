@@ -15,7 +15,7 @@ description: 직원을 퇴직 처리 하고 조회할 수 있습니다.
 <figure><img src="../../.gitbook/assets/직원퇴직처리.png" alt=""><figcaption></figcaption></figure>
 
 1. 직원을 선택하고 상태를 퇴직으로 변경합니다.
-2. 퇴사일자(마지막 근무일)를 지정하고 <img src="../../.gitbook/assets/btn_저장.png" alt="" data-size="line">을 누르면 퇴직 처리가 완료 됩니다.
+2. 퇴사일자(마지막 근무일)를 지정하고 <img src="../../.gitbook/assets/btn_save.png" alt="" data-size="line">을 누르면 퇴직 처리가 완료 됩니다.
 
 {% hint style="warning" %}
 <img src="../../.gitbook/assets/btn_삭제.png" alt="" data-size="line">를 이용해 직원 정보를 제거하면 <mark style="color:red;">**영구 삭제**</mark> 처리 됩니다. 주의해서 사용해 주세요!

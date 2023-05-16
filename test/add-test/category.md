@@ -20,7 +20,11 @@ description: 시험의 영역 정보, 성적표 템플릿 및 누적 관리를 �
 
 맥가이 최초 가입 시, 6가지 시험종류를 제공합니다. 기본 제공되는 시험종류는 수정 및 삭제가 불가능 하지만, 시험 수준은 추가하여 사용할 수 있습니다. (시험수준을 추가하지 않고 사용해도 무방합니다)
 
+<div align="left">
+
 <figure><img src="../../.gitbook/assets/기본시험종류.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 ## 새로운 시험종류 추가하기
 
@@ -41,5 +45,5 @@ description: 시험의 영역 정보, 성적표 템플릿 및 누적 관리를 �
 2. 아래의 시험수준 목록의 <img src="../../.gitbook/assets/btn_추가.png" alt="" data-size="line"> 버튼을 눌러 **명칭** 항목에 시험수준의 이름을 입력합니다&#x20;
    * 한 번에 여러 개를 추가할 수 있어요.
    * 순번은 저장 시 자동으로 지정됩니다.
-3. <img src="../../.gitbook/assets/btn_저장.png" alt="" data-size="line"> 버튼을 눌러 변경 사항을 적용합니다.
+3. <img src="../../.gitbook/assets/btn_save.png" alt="" data-size="line"> 버튼을 눌러 변경 사항을 적용합니다.
 

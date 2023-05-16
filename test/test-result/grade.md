@@ -12,7 +12,7 @@ description: 모의고사, 모의수능 시험 성적표에 등급컷을 추가�
 
 1. 채점이 진행된 시험을 선택하고 등급 컷 타이틀 오른쪽의 <img src="../../.gitbook/assets/btn_추가.png" alt="" data-size="line"> 버튼을 눌러 입력행을 추가 합니다.&#x20;
 2. **등급명**(문자 입력 가능), **시작 점수**, **끝점수**를 입력합니다. **인원 수, 인원%, 평균**은 자동으로 계산됩니다.
-3. 등급 구간을 모두 추가 후 <img src="../../.gitbook/assets/btn_저장.png" alt="" data-size="line">을 누르면 성적표에 적용됩니다.&#x20;
+3. 등급 구간을 모두 추가 후 <img src="../../.gitbook/assets/btn_save.png" alt="" data-size="line">을 누르면 성적표에 적용됩니다.&#x20;
 
 <figure><img src="../../.gitbook/assets/등급컷 추가.png" alt=""><figcaption></figcaption></figure>
 

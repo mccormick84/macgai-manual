@@ -69,7 +69,7 @@
   * [등급컷 추가](test/test-result/grade.md)
   * [성적표 인쇄 및 문자 발송](test/test-result/print.md)
 
-## 🏠 홈페이지 설정 <a href="#homepage" id="homepage"></a>
+## 🏠 연동 홈페이지 <a href="#homepage" id="homepage"></a>
 
 * [맥가이와 학원 홈페이지 연동하기](homepage/undefined.md)
 * [홈페이지 기본 구성 살펴보기](homepage/general.md)
@@ -82,4 +82,11 @@
   * [바로가기 버튼 설정](homepage/settings/banner-button.md)
   * [소셜미디어 바로가기 버튼 설정](homepage/settings/social-media.md)
   * [홈페이지 학원 정보 변경](homepage/settings/undefined.md)
+* [홈페이지 연동 기능 활용](homepage/undefined/README.md)
+  * [설명회 모집](homepage/undefined/undefined.md)
+  * [입학테스트 예약 관리](homepage/undefined/undefined-1.md)
+  * [온라인 강의](homepage/undefined/undefined-2.md)
+  * [학습 이력 조회](homepage/undefined/undefined-3.md)
+  * [학원 소식과 일정 공유](homepage/undefined/undefined-4.md)
+  * [커뮤니티 기능](homepage/undefined/undefined-5.md)
 * [홈페이지 이용 현황 보기](homepage/analytics.md)

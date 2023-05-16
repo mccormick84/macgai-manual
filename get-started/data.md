@@ -11,7 +11,7 @@ description: 맥가이 내에서 데이터를 추가, 수정 및 삭제할 때 �
 ## 1. 신규 데이터 <mark style="color:blue;">입력</mark>하기
 
 * 메뉴 내의 <img src="../.gitbook/assets/btn_추가.png" alt="" data-size="line"> 버튼을 눌러 입력 상태로 전환합니다.
-* 세부 정보를 입력하고 <img src="../.gitbook/assets/btn_저장.png" alt="" data-size="line"> 버튼을 누릅니다.
+* 세부 정보를 입력하고 <img src="../.gitbook/assets/btn_save.png" alt="" data-size="line"> 버튼을 누릅니다.
 
 ### 입력 상태
 
@@ -25,7 +25,7 @@ description: 맥가이 내에서 데이터를 추가, 수정 및 삭제할 때 �
 
 ## 3. 기존 데이터 <mark style="color:blue;">수정</mark>하기
 
-* 저장된 데이터를 선택해 정보를 수정하고 <img src="../.gitbook/assets/btn_저장.png" alt="" data-size="line"> 버튼을 누르면 변경사항이 반영됩니다.
+* 저장된 데이터를 선택해 정보를 수정하고 <img src="../.gitbook/assets/btn_save.png" alt="" data-size="line"> 버튼을 누르면 변경사항이 반영됩니다.
 
 ## 4. 기존 데이터 <mark style="color:red;">삭제</mark>하기
 

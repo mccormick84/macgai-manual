@@ -13,7 +13,7 @@ description: 맥가이를 통해 결제선생에 가입하는 과정을 안내�
 ### 카드 가맹점인 경우
 
 {% hint style="info" %}
-오프라인 카드 단말기를 사용하고 있으시다면 카드 가맹이 되어 있는 상태입니다.
+**오프라인 카드 단말기**를 사용하고 있으시면 **카드 가맹**이 되어 있는 상태입니다.
 {% endhint %}
 
 **미리 준비하실 서류**: 1) 대표자 신분증 사본 2) 사업자 등록증 사본 (개인사업자, 법인사업자 동일)
@@ -24,10 +24,6 @@ description: 맥가이를 통해 결제선생에 가입하는 과정을 안내�
    * **과세/면세** 여부와 **사업자 등록번호**가 입력 되어있어야 진행이 가능합니다.
 2. 이후는 결제 선생 사이트에서 안내하는 대로 가입절차를 진행해주시면 됩니다!
    * 가입 완료 후 영업일 1일 이내에 사용이 가능합니다.
-3. 가입 완료 여부 확인하기
-   * 학원정보관리 메뉴의 <img src="../../.gitbook/assets/btn_사업자추가.png" alt="" data-size="line"> 로 들어갔을 때 **문자결제** 열의 버튼이 <img src="../../.gitbook/assets/btn_사용가능.png" alt="" data-size="line"> 으로 변경되어 있다면 결제 선생 연동 서비스를 사용가능한 상태입니다.
-
-<figure><img src="../../.gitbook/assets/문자결제가입하기 (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 카드 가맹점이 아닌 경우
 
@@ -36,6 +32,18 @@ description: 맥가이를 통해 결제선생에 가입하는 과정을 안내�
 카드 가맹을 진행할 경우 3-4일 이상 기간이 소요 될 수 있으니 참고해주세요.
 
 <figure><img src="../../.gitbook/assets/등록서류.png" alt=""><figcaption></figcaption></figure>
+
+## 가입 완료
+
+가입 승인이 완료 되면 대표자의 휴대폰으로 알림톡이 전달됩니다. 이제부터 맥가이에서 결제 선생 연동 서비스를 사용하실 수 있어요.
+
+<figure><img src="../../.gitbook/assets/결제선생 가입완료.png" alt=""><figcaption></figcaption></figure>
+
+**가입 완료 여부 확인하기**
+
+* 학원정보관리 메뉴의 <img src="../../.gitbook/assets/btn_사업자추가.png" alt="" data-size="line"> 로 들어갔을 때 **문자결제** 열의 버튼이 <img src="../../.gitbook/assets/btn_사용가능.png" alt="" data-size="line"> 으로 변경되어 있다면 결제 선생 연동 서비스를 사용가능한 상태입니다.
+
+<figure><img src="../../.gitbook/assets/문자결제가입하기 (1).png" alt=""><figcaption></figcaption></figure>
 
 ## 먼저 결제선생에 가입 하셨다면?
 
