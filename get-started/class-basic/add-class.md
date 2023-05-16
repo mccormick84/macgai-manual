@@ -56,4 +56,4 @@ description: 새로운 학급을 생성하는 방법을 알아봅니다. 학급�
 
 ## 3. 저장하기
 
-필요한 기본 정보의 입력을 완료하고 <img src="../../.gitbook/assets/btn_save.png" alt="" data-size="line">을 누르면 새로운 학급이 추가됩니다. 바로 이어서 수납항목 추가와 스케줄 생성을 진행할 수 있습니다.
+필요한 기본 정보의 입력을 완료하고 <img src="../../.gitbook/assets/btn_저장.png" alt="" data-size="line">을 누르면 새로운 학급이 추가됩니다. 바로 이어서 수납항목 추가와 스케줄 생성을 진행할 수 있습니다.

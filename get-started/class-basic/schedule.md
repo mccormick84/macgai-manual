@@ -25,7 +25,7 @@ description: 수업 스케줄을 생성합니다. 스케줄이 만들어지면 �
    * **강의실**: 수업이 진행되는 강의실 정보를 선택합니다. 수업목록 - 주간시간표 또는 전체시간표에 표시 됩니다.
    * **과목**: 개별 수업 스케줄에서 강의하는 과목을 선택합니다. 수업목록 또는 전체시간표의 검색 조건으로 사용됩니다.
 4. 2 \~ 3의 과정을 반복하여 추가 일정을 만들  수 있습니다.
-5. 입력이 완료 되면 <img src="../../.gitbook/assets/btn_save.png" alt="" data-size="line"> 버튼을 눌러 변경 사항을 저장합니다.
+5. 입력이 완료 되면 <img src="../../.gitbook/assets/btn_저장.png" alt="" data-size="line"> 버튼을 눌러 변경 사항을 저장합니다.
 
 ### 일괄 입력
 
@@ -33,7 +33,7 @@ description: 수업 스케줄을 생성합니다. 스케줄이 만들어지면 �
 
 1. 일정을 추가할 요일을 제외한 나머지의 체크를 눌러 해제합니다. 오른쪽에 위치한 <img src="../../.gitbook/assets/요일선택체크.png" alt="" data-size="line">체크 버튼을 이용하면 요일을 한꺼번에 선택/해제 할 수 있어요.
 2. 수업 시작 시간, 담당, 강의실 선택 후 <img src="../../.gitbook/assets/btn_일괄세팅.png" alt="" data-size="line"> 버튼을 누르면 수업 스케줄이 한꺼번에 추가됩니다.
-3. 입력 내용 확인 후 <img src="../../.gitbook/assets/btn_save.png" alt="" data-size="line"> 버튼을 눌러 스케줄 추가를 완료합니다.
+3. 입력 내용 확인 후 <img src="../../.gitbook/assets/btn_저장.png" alt="" data-size="line"> 버튼을 눌러 스케줄 추가를 완료합니다.
 
 <figure><img src="../../.gitbook/assets/수업일정_일괄입력.png" alt=""><figcaption></figcaption></figure>
 

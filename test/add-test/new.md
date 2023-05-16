@@ -64,7 +64,7 @@ description: 시험을 만들고 수정하는 방법에 대해 알아봅니다.
 
 ### <mark style="color:blue;">Step 4.</mark> 저장 하기
 
-시험정보와 문항정보가 모두 입력 완료 되었다면 <img src="../../.gitbook/assets/btn_save.png" alt="" data-size="line"> 버튼을 눌러 시험 추가를 완료 합니다.
+시험정보와 문항정보가 모두 입력 완료 되었다면 <img src="../../.gitbook/assets/btn_저장.png" alt="" data-size="line"> 버튼을 눌러 시험 추가를 완료 합니다.
 
 ## 기존 시험 정보 복제하여 추가
 
@@ -72,13 +72,13 @@ description: 시험을 만들고 수정하는 방법에 대해 알아봅니다.
 
 <figure><img src="../../.gitbook/assets/이전자료가져오기_1.png" alt=""><figcaption></figcaption></figure>
 
-원하는 시험을 <img src="../../.gitbook/assets/btn_선택.png" alt="" data-size="line"> 하면 **시험기본정보가** 복제됩니다. 원하는 정보 수정 후 <img src="../../.gitbook/assets/btn_save.png" alt="" data-size="line">을 눌러 새로운 시험을 생성합니다.
+원하는 시험을 <img src="../../.gitbook/assets/btn_선택.png" alt="" data-size="line"> 하면 **시험기본정보가** 복제됩니다. 원하는 정보 수정 후 <img src="../../.gitbook/assets/btn_저장.png" alt="" data-size="line">을 눌러 새로운 시험을 생성합니다.
 
 <figure><img src="../../.gitbook/assets/이전자료가져오기_2.png" alt=""><figcaption></figcaption></figure>
 
 ## 시험 정보 수정하기
 
-저장된 시험을 선택하고 원하는 정보를 수정한 후에 <img src="../../.gitbook/assets/btn_save.png" alt="" data-size="line"> 합니다.
+저장된 시험을 선택하고 원하는 정보를 수정한 후에 <img src="../../.gitbook/assets/btn_저장.png" alt="" data-size="line"> 합니다.
 
 {% hint style="danger" %}
 시험 정보의 **문항 수**가 변경된 경우 **재채점**이 필요합니다. 상세한 내용은 [성적 결과 관리→](../test-result/) 를 참고해주세요.

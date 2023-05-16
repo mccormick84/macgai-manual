@@ -32,7 +32,7 @@ description: 학생 정보를 맥가이에 추가하고 관리하는 방법을 �
 
 ## 2. 학생 정보 수정하기
 
-학생을 검색하여 선택한 후 필요한 내용을 수정 또는 추가 입력 후에 <img src="../../.gitbook/assets/btn_save.png" alt="" data-size="line"> 버튼을 눌러 변경사항을 적용합니다.
+학생을 검색하여 선택한 후 필요한 내용을 수정 또는 추가 입력 후에 <img src="../../.gitbook/assets/btn_저장.png" alt="" data-size="line"> 버튼을 눌러 변경사항을 적용합니다.
 
 ## 3. 학생 삭제하기
 

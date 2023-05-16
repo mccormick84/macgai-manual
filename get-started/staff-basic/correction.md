@@ -16,4 +16,4 @@ description: 저장된 직원 정보를 수정합니다.
 
 1. 저장이 완료 된 직원을 선택
 2. 정보를 수정합니다.
-3. <img src="../../.gitbook/assets/btn_save.png" alt="" data-size="line">을 눌러 변경사항을 적용합니다.
+3. <img src="../../.gitbook/assets/btn_저장.png" alt="" data-size="line">을 눌러 변경사항을 적용합니다.

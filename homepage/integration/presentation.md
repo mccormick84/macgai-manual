@@ -33,7 +33,7 @@ description: 홈페이지를 이용해 설명회를 모집하고 신청자를 �
 6. **이미지**: 설명회 모집 화면에 노출되는 이미지를 업로드 합니다. 설명회 저장 후에 설정할 수 있습니다.
    * <img src="../../.gitbook/assets/btn_이미지올리기.jpg" alt="" data-size="line"> 버튼을 눌러 사용할 파일을 선택할 수 있어요.
    * 이미지 업로드 예시는 아래의 신청과정을 참고해 주세요.
-7. 정보 입력이 완료 되었다면 <img src="../../.gitbook/assets/btn_save.png" alt="" data-size="line"> 버튼을 눌러 새로운 설명회의 추가를 완료합니다.
+7. 정보 입력이 완료 되었다면 <img src="../../.gitbook/assets/btn_저장.png" alt="" data-size="line"> 버튼을 눌러 새로운 설명회의 추가를 완료합니다.
 
 ## 2. 진행 시간 추가하기
 
@@ -47,7 +47,7 @@ description: 홈페이지를 이용해 설명회를 모집하고 신청자를 �
    * **입력항목**: 일자, 시, 분, 장소, 정원
    * 정원에 따라 모집 인원이 제한됩니다. 모집 인원은 각 일시 별로 사용됩니다.
    * 접수인원은 홈페이지에서 신청이 들어오면 자동으로 수치가 변경됩니다.
-4. <img src="../../.gitbook/assets/btn_save.png" alt="" data-size="line"> 버튼을 눌러 변경사항을 적용합니다.
+4. <img src="../../.gitbook/assets/btn_저장.png" alt="" data-size="line"> 버튼을 눌러 변경사항을 적용합니다.
 
 ## 3. 설명회 신청 진행
 
@@ -110,7 +110,7 @@ description: 홈페이지를 이용해 설명회를 모집하고 신청자를 �
 
 </div>
 
-이후 과정은 위의 [홈페이지에 접속하여 신청→](undefined.md#undefined) 과 동일하게 진행됩니다.
+이후 과정은 위의 [홈페이지에 접속하여 신청→](presentation.md#undefined) 과 동일하게 진행됩니다.
 
 ## 4. 예약자 관리, 문자 발송
 

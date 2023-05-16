@@ -14,10 +14,10 @@ description: 수강료에 할인을 적용하는 방법을 알아봅니다.
 
 1. 기본메뉴 → 학생관리 → **학생관리** 메뉴로 진입하여 좌측 상단 검색 창의 <img src="../../.gitbook/assets/btn_코드관리.png" alt="" data-size="line">를 눌러 팝업창을 호출합니다.
 2. 코드구분 드랍다운 목록에서 **할인사유**를 선택합니다.
-   * 새로운 할인 사유 추가: <img src="../../.gitbook/assets/btn_추가.png" alt="" data-size="line"> 버튼을 눌러 코드내용(할인 사유명), 할인율(%), 할인금액을 입력하고 <img src="../../.gitbook/assets/btn_save.png" alt="" data-size="line"> 합니다.&#x20;
+   * 새로운 할인 사유 추가: <img src="../../.gitbook/assets/btn_추가.png" alt="" data-size="line"> 버튼을 눌러 코드내용(할인 사유명), 할인율(%), 할인금액을 입력하고 <img src="../../.gitbook/assets/btn_저장.png" alt="" data-size="line"> 합니다.&#x20;
      * 할인율, 할인 금액 중 하나만 입력하거나 동시에 사용할 수 있습니다.
      * 모두 입력 시 할인금액 차감 후 할인율을 적용합니다.
-   * 입력된 할인 사유 수정: 기존에 입력 된 내용을 변경 후 <img src="../../.gitbook/assets/btn_save.png" alt="" data-size="line">
+   * 입력된 할인 사유 수정: 기존에 입력 된 내용을 변경 후 <img src="../../.gitbook/assets/btn_저장.png" alt="" data-size="line">
    * 삭제:  각 항목 오른쪽의 <img src="../../.gitbook/assets/btn_삭제.png" alt="" data-size="line"> 버튼을 눌러 할인 사유를 제거할 수 있습니다.
      * 할인 사유가 삭제되면 해당 할인 사유를 사용하는 학생의 할인 적용이 즉시 해제 됩니다.
 

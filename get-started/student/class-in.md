@@ -33,7 +33,7 @@ description: 학생을 선택하여 수강 학급을 추가하는 방법을 알�
 <figure><img src="../../.gitbook/assets/시작일지정.png" alt=""><figcaption></figcaption></figure>
 
 4. (선택사항) 한시적으로 수강을 원하는 경우 **종료일**을 지정해주시면 됩니다. 날짜 선택 방법은 시작일과 동일합니다.
-5. 학급 선택 및 시작일 지정이 완료 되면 우측 상단의 <img src="../../.gitbook/assets/btn_save.png" alt="" data-size="line"> 버튼을 눌러 입반 처리를 완료합니다. 저장 시 **담임/강의실**, **상태**는 자동으로 입력됩니다.
+5. 학급 선택 및 시작일 지정이 완료 되면 우측 상단의 <img src="../../.gitbook/assets/btn_저장.png" alt="" data-size="line"> 버튼을 눌러 입반 처리를 완료합니다. 저장 시 **담임/강의실**, **상태**는 자동으로 입력됩니다.
 
 <figure><img src="../../.gitbook/assets/저장완료.png" alt=""><figcaption></figcaption></figure>
 
