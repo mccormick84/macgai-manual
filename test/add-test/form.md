@@ -36,7 +36,11 @@ description: 성적표 양식 선택을 위한 출력프로그램 설정 방법�
 
 ### 1. 모의고사 성적표
 
+<div data-full-width="true">
+
 <figure><img src="../../.gitbook/assets/모의고사 성적표 (1).png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 ### 2. 모의고사 성적표S
 
@@ -44,8 +48,16 @@ description: 성적표 양식 선택을 위한 출력프로그램 설정 방법�
 
 ### 3. 모의수능 성적표
 
+<div data-full-width="true">
+
 <figure><img src="../../.gitbook/assets/모의수능 성적표.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 ### 4. 입학고사 성적표
 
+<div data-full-width="true">
+
 <figure><img src="../../.gitbook/assets/입학고사성적표.png" alt=""><figcaption></figcaption></figure>
+
+</div>
