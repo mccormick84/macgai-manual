@@ -54,4 +54,4 @@ description: 월 수강료를 일괄 생성하는 방법을 알아봅니다.
 
 ## 3. 개별 학생의 수강료 생성
 
-개별 학생을 선택하여 수강료를 생성하는 방법은 [개별 학생 수강료 생성↗](../../get-started/student/undefined.md#undefined)의 내용을 참고해주세요.
+개별 학생을 선택하여 수강료를 생성하는 방법은 [개별 학생 수강료 생성↗](../../get-started/student/retrieve.md#undefined)의 내용을 참고해주세요.

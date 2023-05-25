@@ -27,7 +27,7 @@
   * [학생 정보 추가](get-started/student/adding.md)
   * [학생 정보 검색/수정/삭제](get-started/student/searching.md)
   * [학생을 학급에 입반 시키기](get-started/student/class-in.md)
-  * [수납 항목 가져오기](get-started/student/undefined.md)
+  * [수납 항목 가져오기](get-started/student/retrieve.md)
 * [문자 보내기](get-started/send-msg/README.md)
   * [보낸 문자 확인하기](get-started/send-msg/result.md)
   * [문자 발신 번호 변경 및 추가](get-started/send-msg/add-hp.md)
