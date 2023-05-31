@@ -41,7 +41,7 @@ description: 보낸 문자의 내용과 전송 상태를 확인하는 방법을 
 <figure><img src="../../.gitbook/assets/예약문자취소.png" alt=""><figcaption></figcaption></figure>
 
 * 검색 조건에서 <img src="../../.gitbook/assets/number-1.png" alt="" data-size="line"> **전송상태 - 예약문자**를 선택 후 <img src="../../.gitbook/assets/btn_검색 (1).png" alt="" data-size="line"> 진행
-  1. **개별 메시지 예약 취소**: 개별 메시지 우측의 <img src="../../.gitbook/assets/number-2.png" alt="" data-size="line"><img src="../../.gitbook/assets/btn_delete.png" alt="" data-size="line"> 버튼을 누릅니다.
+  1. **개별 메시지 예약 취소**: 개별 메시지 우측의 <img src="../../.gitbook/assets/number-2.png" alt="" data-size="line"><img src="../../.gitbook/assets/btn_삭제.png" alt="" data-size="line"> 버튼을 누릅니다.
   2. **일괄 선택 취소**: 삭제 할 문자의 체크박스 (가장 왼쪽)를 선택하고 <img src="../../.gitbook/assets/number-3.png" alt="" data-size="line"> <img src="../../.gitbook/assets/btn_선택삭제.png" alt="" data-size="line">를 누르면 일괄 취소 처리 됩니다.
 
 

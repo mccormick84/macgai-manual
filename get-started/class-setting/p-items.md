@@ -43,7 +43,7 @@ description: 수납 항목을 생성, 관리합니다.
 
 1. '사용'을 체크 해제 하여 미사용 항목으로 전환 후 <img src="../../.gitbook/assets/btn_저장.png" alt="" data-size="line">을 눌러 변경 사항을 적용합니다.
 2. 상단 검색 조건에서 **사용 여부 - 미사용**을 눌러 미사용 수납 항목을 검색합니다.
-3. 개별 항목 우측에 있는 <img src="../../.gitbook/assets/btn_delete.png" alt="" data-size="line"> 버튼을 누르면 수납항목이 최종 삭제 됩니다.
+3. 개별 항목 우측에 있는 <img src="../../.gitbook/assets/btn_삭제.png" alt="" data-size="line"> 버튼을 누르면 수납항목이 최종 삭제 됩니다.
 
 {% hint style="warning" %}
 학생에게 추가되어 있는 수납항목을 삭제하면 항목은 남지만 이름이 비어있는 상태로 바뀝니다. 더 이상 사용하지 않는 항목만 삭제를 진행해주세요!

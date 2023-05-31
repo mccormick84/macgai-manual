@@ -33,4 +33,4 @@ description: 맥가이 내에서 데이터를 추가, 수정 및 삭제할 때 �
 원활한 이력 관리를 위해 삭제 기능은 **잘못된 데이터** 또는 **이력이 필요 없는 경우**에만 사용을 권장합니다.
 {% endhint %}
 
-* 저장된 데이터를 선택 후 <img src="../.gitbook/assets/btn_delete.png" alt="" data-size="line"> 버튼을 누르면 확인 후 삭제가 진행됩니다.
+* 저장된 데이터를 선택 후 <img src="../.gitbook/assets/btn_삭제.png" alt="" data-size="line"> 버튼을 누르면 확인 후 삭제가 진행됩니다.
