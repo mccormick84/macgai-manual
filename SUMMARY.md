@@ -54,9 +54,12 @@
 
 ## 수업 관리 <a href="#class" id="class"></a>
 
+* [출결 관리](class/undefined.md)
+* [수업 결과 기록하기](class/undefined-1.md)
 * [🆕 코칭 수업 관리](class/coaching/README.md)
   * [코칭 스케줄 관리](class/coaching/schedule.md)
   * [홈페이지 코칭 수업 예약](class/coaching/reservation.md)
+  * [코칭 수업 출결 체크](class/coaching/attendance.md)
   * [코칭 수업 결과 관리](class/coaching/result.md)
 
 ## 시험 기능 <a href="#test" id="test"></a>

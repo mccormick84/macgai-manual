@@ -12,7 +12,7 @@ description: 청구서를 파기하고 완료 된 결제를 취소하는 방법�
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/청구서 파기.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/청구서 파기 (1).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
