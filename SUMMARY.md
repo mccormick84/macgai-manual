@@ -54,7 +54,7 @@
 
 ## 수업 관리 <a href="#class" id="class"></a>
 
-* [🆕 코칭 수업](class/coaching/README.md)
+* [🆕 코칭 수업 관리](class/coaching/README.md)
   * [코칭 스케줄 관리](class/coaching/schedule.md)
   * [홈페이지 코칭 수업 예약](class/coaching/reservation.md)
   * [코칭 수업 결과 관리](class/coaching/result.md)
