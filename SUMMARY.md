@@ -1,8 +1,8 @@
 # Table of contents
 
-* [📝 맥가이 사용 가이드 안내](README.md)
+* [맥가이 사용 가이드 안내](README.md)
 
-## 🆕 맥가이 시작하기 <a href="#get-started" id="get-started"></a>
+## 맥가이 시작하기 <a href="#get-started" id="get-started"></a>
 
 * [맥가이 접속하기](<README (1).md>)
 * [사용료 및 포인트 결제](get-started/fee/README.md)
@@ -32,7 +32,7 @@
   * [보낸 문자 확인하기](get-started/send-msg/result.md)
   * [문자 발신 번호 변경 및 추가](get-started/send-msg/add-hp.md)
 
-## 💰 수납 관리 <a href="#payments" id="payments"></a>
+## 수납 관리 <a href="#payments" id="payments"></a>
 
 * [연동 결제 단말기 신청](payments/allthatpay.md)
 * [수강료 관리](payments/tuition-mgmt/README.md)
@@ -52,7 +52,14 @@
   * [기타 수납 현황 조회](payments/lookup/etc.md)
 * [결제 관련 정보 설정](payments/info.md)
 
-## 💯 시험기능 사용하기 <a href="#test" id="test"></a>
+## 수업 관리 <a href="#class" id="class"></a>
+
+* [🆕 코칭 수업](class/coaching/README.md)
+  * [코칭 스케줄 관리](class/coaching/schedule.md)
+  * [홈페이지 코칭 수업 예약](class/coaching/reservation.md)
+  * [코칭 수업 결과 관리](class/coaching/result.md)
+
+## 시험 기능 <a href="#test" id="test"></a>
 
 * [시험 추가와 관리](test/add-test/README.md)
   * [시험 생성과 수정](test/add-test/new.md)
@@ -69,7 +76,7 @@
   * [등급컷 추가](test/test-result/grade.md)
   * [성적표 인쇄 및 문자 발송](test/test-result/print.md)
 
-## 🏠 연동 홈페이지 <a href="#homepage" id="homepage"></a>
+## 연동 홈페이지 사용 <a href="#homepage" id="homepage"></a>
 
 * [맥가이와 학원 홈페이지 연동하기](homepage/undefined.md)
 * [홈페이지 기본 구성 살펴보기](homepage/general.md)
