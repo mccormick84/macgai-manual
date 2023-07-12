@@ -54,8 +54,8 @@
 
 ## 수업 관리 <a href="#class" id="class"></a>
 
-* [출결 관리](class/attendance.md)
-* [수업 결과 관리](class/result.md)
+* [🚧 출결 관리](class/attendance.md)
+* [🚧 수업 결과 관리](class/result.md)
 * [🆕 코칭 수업 관리](class/coaching/README.md)
   * [코칭 스케줄 관리](class/coaching/schedule.md)
   * [홈페이지 코칭 수업 예약](class/coaching/reservation.md)
@@ -94,9 +94,9 @@
   * [홈페이지 학원 정보 변경](homepage/settings/undefined.md)
 * [홈페이지 연동 기능 활용](homepage/integration/README.md)
   * [설명회 모집](homepage/integration/presentation.md)
-  * [입학테스트 예약 관리](homepage/integration/admission-test.md)
+  * [🚧 입학테스트 예약 관리](homepage/integration/admission-test.md)
   * [온라인 강의](homepage/integration/online-lecture.md)
-  * [학습 이력 조회](homepage/integration/learn-history.md)
-  * [학원 소식과 일정 공유](homepage/integration/bulletin.md)
-  * [커뮤니티 기능](homepage/integration/community.md)
+  * [🚧 학습 이력 조회](homepage/integration/learn-history.md)
+  * [🚧 학원 소식과 일정 공유](homepage/integration/bulletin.md)
+  * [🚧 커뮤니티 기능](homepage/integration/community.md)
 * [홈페이지 이용 현황 보기](homepage/analytics.md)
