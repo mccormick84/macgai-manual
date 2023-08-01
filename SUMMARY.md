@@ -54,12 +54,12 @@
 
 ## 수업 관리 <a href="#class" id="class"></a>
 
-* [🚧 출결 관리](class/attendance.md)
-* [수업 스케줄 관리](class/schedule/README.md)
-  * [수업 이동](class/schedule/undefined.md)
-  * [보충 수업 추가](class/schedule/undefined-1.md)
-* [🚧 수업 결과 관리](class/result.md)
-* [🆕 코칭 수업 관리](class/coaching/README.md)
+* [전체 시간표](class/schedule/README.md)
+  * [🚧 기본 설정과 검색 기능](class/schedule/undefined.md)
+  * [개별 스케줄 관리](class/schedule/undefined-1.md)
+  * [보충 수업 추가](class/schedule/undefined-2.md)
+  * [🚧 수업 이동](class/schedule/undefined-3.md)
+* [코칭 수업 관리](class/coaching/README.md)
   * [코칭 스케줄 관리](class/coaching/schedule.md)
   * [홈페이지 코칭 수업 예약](class/coaching/reservation.md)
   * [코칭 수업 출결 체크](class/coaching/attendance.md)
