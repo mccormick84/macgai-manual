@@ -31,6 +31,7 @@
 * [문자 보내기](get-started/send-msg/README.md)
   * [보낸 문자 확인하기](get-started/send-msg/result.md)
   * [문자 발신 번호 변경 및 추가](get-started/send-msg/add-hp.md)
+  * [문자 발송 또는 수신에 실패할 경우](get-started/send-msg/add-hp-1.md)
 
 ## 수납 관리 <a href="#payments" id="payments"></a>
 
