@@ -46,6 +46,7 @@
   * [결제선생 가입하기](payments/payssam/signup.md)
   * [결제 알림톡 발송](payments/payssam/send.md)
   * [청구서 파기와 결제 취소](payments/payssam/cancel.md)
+  * [자동결제 관리](payments/payssam/auto.md)
   * [결제선생 매니저 사이트](payments/payssam/manager.md)
 * [청구 및 수납 현황 조회](payments/lookup/README.md)
   * [청구 현황 조회](payments/lookup/billing.md)
