@@ -10,7 +10,7 @@ description: OMR 인쇄와 채점 시 사용하는 맥가이 앱의 설치 및 �
 
 OMR을 이용한 시험 및 채점을 진행하기 위해서 **MacgaiApp V2**의 설치가 필요합니다.
 
-<figure><img src="../../.gitbook/assets/맥가이앱 다운로드.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/맥가이앱 다운로드 (1).png" alt=""><figcaption></figcaption></figure>
 
 1. 하단 메뉴에 있는 **프로그램 다운로드**를 눌러주세요.
    * 하단 메뉴는 맥가이의 어느 위치에서든 동일하게 접근 할 수 있어요.
