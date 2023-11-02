@@ -5,7 +5,7 @@
 ## 맥가이 시작하기 <a href="#get-started" id="get-started"></a>
 
 * [맥가이 접속하기](<README (1).md>)
-* [학생 데이터 일괄 추가](get-started/undefined.md)
+* [학생 데이터 일괄 추가](get-started/conversion.md)
 * [사용료 및 포인트 결제](get-started/fee/README.md)
   * [월 사용료 결제](get-started/fee/payment.md)
   * [포인트 결제](get-started/fee/payment-1.md)
