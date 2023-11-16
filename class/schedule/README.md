@@ -15,7 +15,7 @@ description: 학원 전체의 수업 계획을 한 눈에 관리할 수 있는 �
 {% hint style="info" %}
 전체 시간표 기능을 이용하기 위해서는 먼저 학급의 **수업 계획 정보**가 설정되어 있어야 합니다.
 
-학급의 수업 계획을 설정하는 방법은[ 수업 스케줄 관리↗](../../get-started/class-basic/schedule.md)의 내용을 참고해주세요!
+학급의 수업 계획을 설정하는 방법은[ 수업 스케줄 관리↗](../../get-started/class/planning.md)의 내용을 참고해주세요!
 {% endhint %}
 
 1. 기본 설정과 검색 기능
