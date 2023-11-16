@@ -4,7 +4,7 @@ description: 홈페이지에서 학생 아이디로 로그인하여 학원에서
 
 # 온라인 강의
 
-↖ 상위항목: [홈페이지 연동 기능 활용](./)
+→ 선행 기능: [맥가이와 학원 홈페이지 연동하기](../homepage/link.md)
 
 {% hint style="info" %}
 **학생이 홈페이지에서 학원이 제공하는 온라인 강의를 수강 하려면 아래의 조건이 필요합니다.**
@@ -12,7 +12,7 @@ description: 홈페이지에서 학생 아이디로 로그인하여 학원에서
 1. 홈페이지가 연동 되어 있어야 합니다.
 2. 홈페이지 내 메뉴에 '**프로그램: 동영상 강의**'가 추가되어 있어야 해요.
 3. 홈페이지에 로그인 할 수 있는 학생의 아이디 생성 필요&#x20;
-   * 학생 아이디 생성 방법: [#2.](../../get-started/student/adding.md#2. "mention")
+   * 학생 아이디 생성 방법: [#2.](../get-started/student/adding.md#2. "mention")
 4. 학생이 학급에 소속되어 있어야 합니다. (재원생 상태)
 {% endhint %}
 
@@ -47,12 +47,12 @@ description: 홈페이지에서 학생 아이디로 로그인하여 학원에서
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/강의등록.png" alt=""><figcaption><p>강의 등록 하기</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/강의등록.png" alt=""><figcaption><p>강의 등록 하기</p></figcaption></figure>
 
 </div>
 
-1. <img src="../../.gitbook/assets/tab_lecture_list.png" alt="" data-size="line"> 탭에서 진행합니다.
-2. 우측에 위치한 <img src="../../.gitbook/assets/btn_추가.png" alt="" data-size="line"> 버튼을 눌러 입력 상태로 전환합니다.
+1. <img src="../.gitbook/assets/tab_lecture_list.png" alt="" data-size="line"> 탭에서 진행합니다.
+2. 우측에 위치한 <img src="../.gitbook/assets/btn_추가.png" alt="" data-size="line"> 버튼을 눌러 입력 상태로 전환합니다.
 3. 강의 기본 정보를 입력합니다.
    * **강의명**: 식별 가능한 강의 이름을 입력&#x20;
    * **대상자**: 강의 대상 학년을 선택합니다.
@@ -65,13 +65,13 @@ description: 홈페이지에서 학생 아이디로 로그인하여 학원에서
      * 재생 시간이 저장되어 있어야 '수강 현황'에서 학생의 학습 시간을 기록할 수 있어요.
    * **첨부파일**: 학생이 내려받을 수 있는 강의 교안 파일을 업로드 합니다.
    * **등록일자**: 강의를 최초 생성한 날짜가 자동 입력 됩니다.
-4. 정보 입력이 완료 되면 <img src="../../.gitbook/assets/btn_save.png" alt="" data-size="line"> 버튼을 눌러 강의 생성을 완료 합니다.
+4. 정보 입력이 완료 되면 <img src="../.gitbook/assets/btn_save.png" alt="" data-size="line"> 버튼을 눌러 강의 생성을 완료 합니다.
 
 #### **(참고) 입력한 기본 정보는 아래의 이미지와 같이 연결됩니다.**
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/강의 기본 정보 매칭.png" alt=""><figcaption><p>강의등록: 기본정보와 홈페이지 온라인 강의 화면</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/강의 기본 정보 매칭.png" alt=""><figcaption><p>강의등록: 기본정보와 홈페이지 온라인 강의 화면</p></figcaption></figure>
 
 </div>
 
@@ -81,12 +81,12 @@ description: 홈페이지에서 학생 아이디로 로그인하여 학원에서
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/강좌등록하기.png" alt=""><figcaption><p>강좌 등록 과정</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/강좌등록하기.png" alt=""><figcaption><p>강좌 등록 과정</p></figcaption></figure>
 
 </div>
 
-1. <img src="../../.gitbook/assets/tab_course_register.png" alt="" data-size="line"> 탭에서 진행합니다.
-2. <img src="../../.gitbook/assets/btn_추가.png" alt="" data-size="line"> 버튼을 눌러 입력 상태로 전환
+1. <img src="../.gitbook/assets/tab_course_register.png" alt="" data-size="line"> 탭에서 진행합니다.
+2. <img src="../.gitbook/assets/btn_추가.png" alt="" data-size="line"> 버튼을 눌러 입력 상태로 전환
 3. 강좌의 **기본 정보**를 입력합니다. 입력 된 기본 정보는 상단 검색 창에서 강좌를 검색에 사용할 수 있어요.
    * 강좌명: 강좌의 이름을 입력합니다.
      * 수강현황에서 강좌 구분에 사용
@@ -96,14 +96,14 @@ description: 홈페이지에서 학생 아이디로 로그인하여 학원에서
    * 등록일자: 강좌 등록 일자를 지정합니다.
 4. **강좌 강의 추가**: 강좌에 포함될 강의를 추가합니다. 먼저 [강의 등록](online-lecture.md#2)이 되어 있어야 합니다.
    * 강의 추가 후 ⬆️ ⬇️ 버튼을 눌러 순서를 조정할 수 있습니다. 순서는 홈페이지의 강의 목록에 반영됩니다.
-   * 특정 강의를 삭제해야 할 경우 <img src="../../.gitbook/assets/btn_delete.png" alt="" data-size="line"> 를 눌러 강좌에서 제거할 수 있습니다.
+   * 특정 강의를 삭제해야 할 경우 <img src="../.gitbook/assets/btn_delete.png" alt="" data-size="line"> 를 눌러 강좌에서 제거할 수 있습니다.
 5. **수강 학급 추가**: 강좌를 수강할 학급을 선택합니다. 수강 학급에 포함된 학생은 홈페이지에 로그인 하여 강좌를 볼 수 있어요.
 
 #### (참고) 홈페이지 온라인 강의 메뉴의 강좌와 강의 구분
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/홈페이지_강좌표시.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/홈페이지_강좌표시.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -112,18 +112,18 @@ description: 홈페이지에서 학생 아이디로 로그인하여 학원에서
 강좌의 등록이 완료 되었다면 학생 아이디로 홈페이지에 로그인하여 강의를 수강할 수 있습니다.
 
 1. \[학생] 홈페이지에 로그인 → 온라인 강의 메뉴로 들어갑니다.
-2. 원하는 교안을 내려받고 <img src="../../.gitbook/assets/btn_lecture_begin.png" alt="" data-size="line"> 를 눌러 수강을 진행합니다.
-3. 수강 시작 시간 및 시작 시간은 자동으로 기록되고 맥가이의 <img src="../../.gitbook/assets/tab_course_status.png" alt="" data-size="line"> 탭에서 확인할 수 있어요.
+2. 원하는 교안을 내려받고 <img src="../.gitbook/assets/btn_lecture_begin.png" alt="" data-size="line"> 를 눌러 수강을 진행합니다.
+3. 수강 시작 시간 및 시작 시간은 자동으로 기록되고 맥가이의 <img src="../.gitbook/assets/tab_course_status.png" alt="" data-size="line"> 탭에서 확인할 수 있어요.
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/온라인 강의 수강.png" alt="" width="563"><figcaption><p>(학생) 홈페이지에 로그인하여 강의 수강하기</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/온라인 강의 수강.png" alt="" width="563"><figcaption><p>(학생) 홈페이지에 로그인하여 강의 수강하기</p></figcaption></figure>
 
 </div>
 
 ## 3. 수강현황 확인하기
 
-학생이 강의를 수강 했다면 <img src="../../.gitbook/assets/tab_course_status.png" alt="" data-size="line"> 탭에서 강좌에 포함 된 강의 별로 수강일시와 학습시간을 확인할 수 있어요.
+학생이 강의를 수강 했다면 <img src="../.gitbook/assets/tab_course_status.png" alt="" data-size="line"> 탭에서 강좌에 포함 된 강의 별로 수강일시와 학습시간을 확인할 수 있어요.
 
 {% hint style="info" %}
 **(참고) 학습 시간 체크 방법**
@@ -132,7 +132,7 @@ description: 홈페이지에서 학생 아이디로 로그인하여 학원에서
 * 비메오: 10초 이상 재생 시 학습 시간이 기록
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/수강현황 확인하기.png" alt=""><figcaption><p>수강 현황 확인하기</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/수강현황 확인하기.png" alt=""><figcaption><p>수강 현황 확인하기</p></figcaption></figure>
 
 1. 강좌에서 학습 현황을 체크할 강의를 선택하세요.
 2. 학생 별 수강 일시 및 학습 시간을 확인할 수 있습니다.
