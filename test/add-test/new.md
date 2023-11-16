@@ -14,10 +14,10 @@ description: 시험을 만들고 수정하는 방법에 대해 알아봅니다.
 
 ### <mark style="color:blue;">Step 2.</mark> 시험기본정보 입력하기
 
-<figure><img src="../../.gitbook/assets/시험만들기_기본정보입력 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/시험만들기_기본정보입력.png" alt=""><figcaption></figcaption></figure>
 
 1. **시험 종류 **<mark style="color:red;">**(필수)**</mark>
-   * 시험종류를 선택합니다. 시험 종류에 따라 성적표 출력 양식, 입력방법, 영역명칭을 다르게 설정할 수 있습니다. 시험 리스트 좌측 하단의 <img src="../../.gitbook/assets/btn_시험종류 (1).png" alt="" data-size="line">를 눌러 세부 설정이 가능합니다.
+   * 시험종류를 선택합니다. 시험 종류에 따라 성적표 출력 양식, 입력방법, 영역명칭을 다르게 설정할 수 있습니다. 시험 리스트 좌측 하단의 <img src="../../.gitbook/assets/btn_시험종류.png" alt="" data-size="line">를 눌러 세부 설정이 가능합니다.
    * **시험 종류** 및 **시험 수준**의 상세 설정 방법은 [시험종류 관리→](category.md) 를 참고해주세요.
 2. **시험 수준**
    * 시험 수준을 선택합니다. 시험 종류의 하위 항목이며 시험 종류 - 시험 수준이 동일한 시험은 누적 결과가 성적표에 나타납니다. 시험 종류에 시험 수준이 없으면 별도 지정하지 않아도 무방합니다.&#x20;
@@ -64,7 +64,7 @@ description: 시험을 만들고 수정하는 방법에 대해 알아봅니다.
 
 ### <mark style="color:blue;">Step 4.</mark> 저장 하기
 
-시험정보와 문항정보가 모두 입력 완료 되었다면 <img src="../../.gitbook/assets/btn_저장.png" alt="" data-size="line"> 버튼을 눌러 시험 추가를 완료 합니다.
+시험정보와 문항정보가 모두 입력 완료 되었다면 <img src="../../.gitbook/assets/btn_save.png" alt="" data-size="line"> 버튼을 눌러 시험 추가를 완료 합니다.
 
 ## 기존 시험 정보 복제하여 추가
 
@@ -72,13 +72,13 @@ description: 시험을 만들고 수정하는 방법에 대해 알아봅니다.
 
 <figure><img src="../../.gitbook/assets/이전자료가져오기_1.png" alt=""><figcaption></figcaption></figure>
 
-원하는 시험을 <img src="../../.gitbook/assets/btn_선택.png" alt="" data-size="line"> 하면 **시험기본정보가** 복제됩니다. 원하는 정보 수정 후 <img src="../../.gitbook/assets/btn_저장.png" alt="" data-size="line">을 눌러 새로운 시험을 생성합니다.
+원하는 시험을 <img src="../../.gitbook/assets/btn_선택.png" alt="" data-size="line"> 하면 **시험기본정보가** 복제됩니다. 원하는 정보 수정 후 <img src="../../.gitbook/assets/btn_save.png" alt="" data-size="line">을 눌러 새로운 시험을 생성합니다.
 
 <figure><img src="../../.gitbook/assets/이전자료가져오기_2.png" alt=""><figcaption></figcaption></figure>
 
 ## 시험 정보 수정하기
 
-저장된 시험을 선택하고 원하는 정보를 수정한 후에 <img src="../../.gitbook/assets/btn_저장.png" alt="" data-size="line"> 합니다.
+저장된 시험을 선택하고 원하는 정보를 수정한 후에 <img src="../../.gitbook/assets/btn_save.png" alt="" data-size="line"> 합니다.
 
 {% hint style="danger" %}
 시험 정보의 **문항 수**가 변경된 경우 **재채점**이 필요합니다. 상세한 내용은 [성적 결과 관리→](../test-result/) 를 참고해주세요.

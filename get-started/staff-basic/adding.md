@@ -78,7 +78,7 @@ description: 직원이 맥가이에 로그인하여 사용할 수 있도록 정�
 
 시스템 사용에 대한 권한과 각종 문자 수신 여부를 설정할 수 있어요.
 
-<figure><img src="../../.gitbook/assets/시스템 권한 설정 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/시스템 권한 설정.png" alt=""><figcaption></figcaption></figure>
 
 ### 시스템 권한 설정
 
@@ -101,4 +101,4 @@ description: 직원이 맥가이에 로그인하여 사용할 수 있도록 정�
 
 ## 5. 저장하기
 
-정보 입력 완료 후 <img src="../../.gitbook/assets/btn_저장.png" alt="" data-size="line"> 버튼을 누르면 직원 정보가 맥가이에 추가됩니다. [edu.macgai7.com](https://edu.macgai7.com/) 으로 접속해 직원 정보의 <mark style="color:blue;">**아이디 / 비밀번호**</mark>를 이용해 맥가이에 로그인 할 수 있어요.
+정보 입력 완료 후 <img src="../../.gitbook/assets/btn_save.png" alt="" data-size="line"> 버튼을 누르면 직원 정보가 맥가이에 추가됩니다. [edu.macgai7.com](https://edu.macgai7.com/) 으로 접속해 직원 정보의 <mark style="color:blue;">**아이디 / 비밀번호**</mark>를 이용해 맥가이에 로그인 할 수 있어요.

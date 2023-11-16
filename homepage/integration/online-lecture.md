@@ -65,7 +65,7 @@ description: 홈페이지에서 학생 아이디로 로그인하여 학원에서
      * 재생 시간이 저장되어 있어야 '수강 현황'에서 학생의 학습 시간을 기록할 수 있어요.
    * **첨부파일**: 학생이 내려받을 수 있는 강의 교안 파일을 업로드 합니다.
    * **등록일자**: 강의를 최초 생성한 날짜가 자동 입력 됩니다.
-4. 정보 입력이 완료 되면 <img src="../../.gitbook/assets/btn_저장.png" alt="" data-size="line"> 버튼을 눌러 강의 생성을 완료 합니다.
+4. 정보 입력이 완료 되면 <img src="../../.gitbook/assets/btn_save.png" alt="" data-size="line"> 버튼을 눌러 강의 생성을 완료 합니다.
 
 #### **(참고) 입력한 기본 정보는 아래의 이미지와 같이 연결됩니다.**
 
@@ -81,7 +81,7 @@ description: 홈페이지에서 학생 아이디로 로그인하여 학원에서
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/강좌등록하기 (1).png" alt=""><figcaption><p>강좌 등록 과정</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/강좌등록하기.png" alt=""><figcaption><p>강좌 등록 과정</p></figcaption></figure>
 
 </div>
 
@@ -96,7 +96,7 @@ description: 홈페이지에서 학생 아이디로 로그인하여 학원에서
    * 등록일자: 강좌 등록 일자를 지정합니다.
 4. **강좌 강의 추가**: 강좌에 포함될 강의를 추가합니다. 먼저 [강의 등록](online-lecture.md#2)이 되어 있어야 합니다.
    * 강의 추가 후 ⬆️ ⬇️ 버튼을 눌러 순서를 조정할 수 있습니다. 순서는 홈페이지의 강의 목록에 반영됩니다.
-   * 특정 강의를 삭제해야 할 경우 <img src="../../.gitbook/assets/btn_삭제.png" alt="" data-size="line"> 를 눌러 강좌에서 제거할 수 있습니다.
+   * 특정 강의를 삭제해야 할 경우 <img src="../../.gitbook/assets/btn_delete.png" alt="" data-size="line"> 를 눌러 강좌에서 제거할 수 있습니다.
 5. **수강 학급 추가**: 강좌를 수강할 학급을 선택합니다. 수강 학급에 포함된 학생은 홈페이지에 로그인 하여 강좌를 볼 수 있어요.
 
 #### (참고) 홈페이지 온라인 강의 메뉴의 강좌와 강의 구분

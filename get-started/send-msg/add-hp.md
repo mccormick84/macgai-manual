@@ -16,4 +16,4 @@
 
 * 새로운 번호를 등록하여 사용하시려면 [발신번호 사전등록 →](./#undefined) 이 필요합니다.
 
-<figure><img src="../../.gitbook/assets/SMS발송번호추가 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/SMS발송번호추가.png" alt=""><figcaption></figcaption></figure>

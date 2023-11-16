@@ -36,7 +36,7 @@ description: 맥가이 내에서 문자를 보내는 방법에 대해 알아봅�
 
 4\) <img src="../../.gitbook/assets/btn_미리보기.png" alt="" data-size="line"> : 문자의 내용이 작성되면 보낼 문자를 미리 확인하실 수 있습니다.
 
-<figure><img src="../../.gitbook/assets/전송대상자선택 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/전송대상자선택.png" alt=""><figcaption></figcaption></figure>
 
 ### 2. 문자 내용 작성
 
@@ -44,7 +44,7 @@ description: 맥가이 내에서 문자를 보내는 방법에 대해 알아봅�
 
 #### 1) 직접 작성하기
 
-<figure><img src="../../.gitbook/assets/문자보내기_직접작성.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/문자보내기_직접작성 (1).png" alt=""><figcaption></figcaption></figure>
 
 1. 보낼 내용을 작성합니다. 내용이 80 byte (한글 40자)가 넘어가면 LMS로 자동 변경됩니다.
 2. 작성 시 미리 설정 된 **\[치환값]**을 이용할 수 있습니다

@@ -13,7 +13,7 @@ description: 정규 수업과 별도로 코칭 수업의 등하원을 체크 할
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/출결기_등원 (2).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/출결기_등원 (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 </div>
 

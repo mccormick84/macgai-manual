@@ -8,7 +8,7 @@ description: 홈페이지의 색상과 검색 시 노출 되는 정보를 변경
 
 ## 설정 항목 개요
 
-<figure><img src="../../.gitbook/assets/홈페이지 기본 설정 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/홈페이지 기본 설정.png" alt=""><figcaption></figcaption></figure>
 
 ## 1. 홈페이지 기본 색상
 

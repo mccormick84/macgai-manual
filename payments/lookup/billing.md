@@ -18,7 +18,7 @@ description: 청구 및 미청구 현황을 조회할 수 있습니다.
 
 개별 학생을 선택하여 청구내역을 확인할 수 있습니다. 등록 후 전 기간의 내역을 확인할 수 있으며, 총 **미납금액 / 납부금액/ 합계금액**(미납 + 납부완료)이 표시 됩니다.
 
-<figure><img src="../../.gitbook/assets/학생_청구내역조회.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/학생_청구내역조회 (1).png" alt=""><figcaption></figcaption></figure>
 
 ## 모든 학생의 청구 내역 조회
 

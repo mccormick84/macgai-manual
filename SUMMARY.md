@@ -4,7 +4,7 @@
 
 ## 맥가이 시작하기 <a href="#get-started" id="get-started"></a>
 
-* [맥가이 접속하기](<README (1).md>)
+* [맥가이 접속하기](get-started/log-in.md)
 * [학생 데이터 일괄 추가](get-started/conversion.md)
 * [사용료 및 포인트 결제](get-started/fee/README.md)
   * [월 사용료 결제](get-started/fee/payment.md)
@@ -17,18 +17,18 @@
 * [학급 공통 정보 설정](get-started/class-setting/README.md)
   * [교시 시간 설정](get-started/class-setting/time.md)
   * [강의실 관리](get-started/class-setting/room.md)
-  * [과목관리](get-started/class-setting/subject.md)
+  * [과목 관리](get-started/class-setting/subject.md)
   * [수업 종류 관리](get-started/class-setting/category.md)
   * [수납 항목 관리](get-started/class-setting/p-items.md)
 * [학급 생성과 관리](get-started/class-basic/README.md)
   * [새로운 학급 만들기](get-started/class-basic/add-class.md)
   * [학급에 수납 항목 추가](get-started/class-basic/add-class-1.md)
-  * [수업 스케줄 만들기](get-started/class-basic/schedule.md)
+  * [수업 만들기](get-started/class-basic/schedule.md)
 * [학생 추가와 입반](get-started/student/README.md)
   * [학생 정보 추가](get-started/student/adding.md)
   * [학생 정보 검색/수정/삭제](get-started/student/searching.md)
   * [학생을 학급에 입반 시키기](get-started/student/class-in.md)
-  * [수납 항목 가져오기](get-started/student/undefined.md)
+  * [수납 항목 가져오기](get-started/student/retrieve.md)
 * [문자 보내기](get-started/send-msg/README.md)
   * [보낸 문자 확인하기](get-started/send-msg/result.md)
   * [문자 발신 번호 변경 및 추가](get-started/send-msg/add-hp.md)
@@ -87,7 +87,7 @@
 
 ## 연동 홈페이지 사용 <a href="#homepage" id="homepage"></a>
 
-* [맥가이와 학원 홈페이지 연동하기](homepage/undefined.md)
+* [맥가이와 학원 홈페이지 연동하기](homepage/link.md)
 * [홈페이지 기본 구성 살펴보기](homepage/general.md)
 * [홈페이지 세부 설정하기](homepage/settings/README.md)
   * [기본 설정](homepage/settings/basic-settings.md)

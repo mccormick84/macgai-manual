@@ -15,7 +15,7 @@ description: 미납 현황을 조회하고 결제 알림톡을 발송할 수 있
   * 마감일 기준 24시 00분에 파기 됩니다.
   * 청구서 파기일은 청구서 납부 내역에 별도 표시 됩니다. [이미지 보기(외부 링크) →](https://imgur.com/grY9lS8)
 
-<figure><img src="../../.gitbook/assets/문자결제 마감일 설정 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/문자결제 마감일 설정.png" alt=""><figcaption></figcaption></figure>
 
 ## 문자결제 알림톡 발송
 

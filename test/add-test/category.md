@@ -12,7 +12,7 @@ description: 시험의 영역 정보, 성적표 템플릿 및 누적 관리를 �
 
 ### 시험종류 관리 메뉴 열기
 
-기본메뉴 → 수업관리 → 시험관리 메뉴 내의 시험 리스트 좌측 하단에 있는 <img src="../../.gitbook/assets/btn_시험종류.png" alt="" data-size="line"> 버튼을 눌러 시험종류를 관리할 수 있습니다.
+기본메뉴 → 수업관리 → 시험관리 메뉴 내의 시험 리스트 좌측 하단에 있는 <img src="../../.gitbook/assets/btn_시험종류 (1).png" alt="" data-size="line"> 버튼을 눌러 시험종류를 관리할 수 있습니다.
 
 <figure><img src="../../.gitbook/assets/시험종류설정.png" alt=""><figcaption></figcaption></figure>
 
@@ -45,5 +45,5 @@ description: 시험의 영역 정보, 성적표 템플릿 및 누적 관리를 �
 2. 아래의 시험수준 목록의 <img src="../../.gitbook/assets/btn_추가.png" alt="" data-size="line"> 버튼을 눌러 **명칭** 항목에 시험수준의 이름을 입력합니다&#x20;
    * 한 번에 여러 개를 추가할 수 있어요.
    * 순번은 저장 시 자동으로 지정됩니다.
-3. <img src="../../.gitbook/assets/btn_저장.png" alt="" data-size="line"> 버튼을 눌러 변경 사항을 적용합니다.
+3. <img src="../../.gitbook/assets/btn_save.png" alt="" data-size="line"> 버튼을 눌러 변경 사항을 적용합니다.
 
