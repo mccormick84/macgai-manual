@@ -131,7 +131,7 @@ description: 홈페이지를 이용해 설명회를 모집하고 신청자를 �
    3.  <img src="../.gitbook/assets/btn_sendsms.jpg" alt="" data-size="line">: 신청자 목록에서 선택된 학생을 대상으로 문자를 보낼 수 있습니다.
 
        * \[이름], \[이름이] 치환 값을 사용할 수 있어요. (이미지 참고)
-       * 문자 보내기 기능에 대한 자세한 설명은 [문자 보내기↗](../get-started/send-msg/) 페이지를 참고해 주세요.
+       * 문자 보내기 기능에 대한 자세한 설명은 [문자 보내기↗](../get-started/send-msg.md) 페이지를 참고해 주세요.
 
 
 
