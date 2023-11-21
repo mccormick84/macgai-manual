@@ -12,6 +12,6 @@
 
 학원 내 모든 직원이 문자 발송에 사용할 수 있는 번호를 추가할 수 있습니다. ⭕ **출결 자동화 메시지 설정** 섹션의 **추가 SMS 발송용 전화번호**의 <img src="../.gitbook/assets/btn_번호추가.png" alt="" data-size="line"> 버튼을 눌러 추가 및 수정이 가능해요.
 
-* 새로운 번호를 등록하여 사용하시려면 [발신번호 사전등록 →](../get-started/send-msg.md#undefined) 이 필요합니다.
+* 새로운 번호를 등록하여 사용하시려면 [발신 번호 사전 등록](pre-registration/)이 필요합니다.
 
 <figure><img src="../.gitbook/assets/SMS발송번호추가.png" alt=""><figcaption></figcaption></figure>

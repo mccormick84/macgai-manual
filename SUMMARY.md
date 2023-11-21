@@ -1,6 +1,6 @@
 # Table of contents
 
-* [맥가이 사용 가이드 안내](README.md)
+* [맥가이 사용 가이드 엔트리 맵](README.md)
 
 ## 맥가이 시작하기 <a href="#get-started" id="get-started"></a>
 
@@ -30,13 +30,12 @@
   * [학생 정보 검색/수정/삭제](get-started/student/searching.md)
   * [학생을 학급에 입반 시키기](get-started/student/class-in.md)
   * [수납 항목 가져오기](get-started/student/retrieve.md)
-* [문자 기능](get-started/send-msg.md)
 
 ## 문자 기능 <a href="#message" id="message"></a>
 
 * [발신 번호 사전 등록](message/pre-registration/README.md)
   * [통신서비스 이용 증명원 발급 방법](message/pre-registration/certificate.md)
-* [문자 보내기](message/undefined.md)
+* [문자 보내기](message/send.md)
 * [보낸 문자 확인하기](message/result.md)
 * [문자 발신 번호 변경 및 추가](message/add-hp.md)
 * [문자 발송 또는 수신에 실패할 경우](message/fail.md)

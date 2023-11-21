@@ -65,7 +65,7 @@ description: 미납 내역을 확인하고 안내 문자를 보내는 방법을 
 
 #### 2. 문자 보내기
 
-학생 선택이 완료 되면 <img src="../../.gitbook/assets/btn_선택학생SMS.png" alt="" data-size="line"> 버튼을 눌러 문자 보내기 팝업을 호출합니다. 직접 내용을 입력하거나 저장 메시지를 활용하여 문자를 보낼 수 있습니다. 문자 발송에 대한 상세 설명은 [문자 보내기↗](../../get-started/send-msg.md#undefined-2)의 내용을 참고해 주세요.
+학생 선택이 완료 되면 <img src="../../.gitbook/assets/btn_선택학생SMS.png" alt="" data-size="line"> 버튼을 눌러 문자 보내기 팝업을 호출합니다. 직접 내용을 입력하거나 저장 메시지를 활용하여 문자를 보낼 수 있습니다. 문자 발송에 대한 상세 설명은 [문자 보내기↗](broken-reference)의 내용을 참고해 주세요.
 
 <figure><img src="../../.gitbook/assets/미납문자보내기_2.png" alt=""><figcaption></figcaption></figure>
 
