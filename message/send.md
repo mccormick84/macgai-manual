@@ -1,18 +1,18 @@
 ---
-description: 맥가이를 이용해 문자메시지를 보낼 수 있어요.
+description: 학생 또는 학부모를 대상으로 문자메시지를 보낼 수 있어요.
 ---
 
 # 문자 보내기
 
-{% hint style="info" %}
-**문자 발송 전 체크**
+{% hint style="warning" %}
+**문자 발송 전 확인**
 
 문자를 발송하기 위해서는 [**포인트 충전**](../get-started/fee/payment-1.md)과 [**발신 번호의 사전 등록**](pre-registration/)이 필요합니다.
 {% endhint %}
 
 ## 문자 보내기
 
-왼쪽 사이드 메뉴의 <img src="../.gitbook/assets/문자보내기.png" alt="" data-size="line"> 메뉴에서 문자를 보낼 수 있습니다. 다른 곳에서 사용할 수 있는 문자 전송 기능은 해당 메뉴의 설명을 참고해주세요.
+왼쪽 사이드 메뉴의 <img src="../.gitbook/assets/문자보내기.png" alt="" data-size="line"> 메뉴에서 문자를 보낼 수 있어요.
 
 ### 1. 전송 대상자 선택
 
@@ -64,13 +64,9 @@ description: 맥가이를 이용해 문자메시지를 보낼 수 있어요.
 
 <figure><img src="../.gitbook/assets/보내는사람 선택.svg" alt=""><figcaption></figcaption></figure>
 
-#### 🔘 즉시 전송
+🔘 **즉시 전송**: 즉시 문자를 발송합니다.
 
-즉시 문자를 발송합니다.
-
-#### 🔘 예약 전송
-
-예약 날짜를 지정하여 메시지를 보냅니다. 예약 된 문자를 확인하고 취소하는 방법은 [예약 문자 취소→](result.md#undefined-2) 를 참고해주세요.
+🔘 **예약 전송**: 예약 날짜를 지정하여 메시지를 보냅니다. 예약 된 문자를 확인하고 취소하는 방법은 [예약 문자 취소→](result.md#undefined-2) 를 참고해주세요.
 
 ## 저장 메시지 관리
 

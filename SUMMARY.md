@@ -2,7 +2,7 @@
 
 * [맥가이 사용 가이드 엔트리 맵](README.md)
 
-## 맥가이 시작하기 <a href="#get-started" id="get-started"></a>
+## 시작하기 <a href="#get-started" id="get-started"></a>
 
 * [맥가이 접속하기](get-started/log-in.md)
 * [학생 데이터 일괄 추가](get-started/conversion.md)
@@ -37,7 +37,7 @@
   * [통신서비스 이용 증명원 발급 방법](message/pre-registration/certificate.md)
 * [문자 보내기](message/send.md)
 * [보낸 문자 확인하기](message/result.md)
-* [문자 발신 번호 변경 및 추가](message/add-hp.md)
+* [발신 번호 변경 및 추가](message/add-hp.md)
 * [문자 발송 또는 수신에 실패할 경우](message/fail.md)
 
 ## 수납 관리 <a href="#payments" id="payments"></a>
