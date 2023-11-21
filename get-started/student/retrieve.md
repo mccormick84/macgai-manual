@@ -17,4 +17,4 @@ description: 학급에 속한 개별 학생을 선택하여 수납항목을 가�
    * 수강 시작일이 현재 년월 보다 이후의 월이면 학급정보 우측의 년월을 수강 시작년월에 맞게 변경해줍니다
 4. <img src="../../.gitbook/assets/btn_save.png" alt="" data-size="line"> 버튼을 눌러 수납 예정 항목 추가 사항을 저장합니다.
 5. 수납 예정 항목이 추가 되면 결제 탭으로 이동하여 수납을 할 수 있습니다.&#x20;
-   * 수납을 진행하는 방법은 [수강료 수납하기↗](../../payments/tuition-mgmt/charging.md)참고해주세요.
+   * 수납을 진행하는 방법은 [charging.md](../../payments/receiving/charging.md "mention")페이지를 참고해주세요.

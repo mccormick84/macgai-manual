@@ -31,7 +31,7 @@ description: 청구서를 파기하고 완료 된 결제를 취소하는 방법�
 ## 결제 대기 상태에서 현장 결제 진행 시
 
 * 현장 결제를 원하는 결제 건의 청구서 파기 후 <img src="../../.gitbook/assets/btn_미납내역가져오기 (1).png" alt="" data-size="line"> 를 진행하여 현장 결제를 진행합니다.
-  * / [연동 단말기를 이용한 현장 결제 방법↗](../tuition-mgmt/charging.md#undefined)&#x20;
+  * / [연동 단말기를 이용한 현장 결제 방법↗](../receiving/charging.md#undefined)&#x20;
 
 ## 결제 완료 건 <mark style="color:red;">취소</mark>하기
 
