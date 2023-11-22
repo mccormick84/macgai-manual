@@ -1,46 +1,46 @@
 # Table of contents
 
+## 🐥 시작하기 <a href="#get-started" id="get-started"></a>
+
 * [맥가이 사용 가이드 엔트리 맵](README.md)
-
-## 시작하기 <a href="#get-started" id="get-started"></a>
-
 * [맥가이 접속하기](get-started/log-in.md)
 * [학생 데이터 일괄 추가](get-started/conversion.md)
 * [사용료 및 포인트 결제](get-started/fee/README.md)
   * [월 사용료 결제](get-started/fee/payment.md)
   * [포인트 결제](get-started/fee/payment-1.md)
-* [기본 데이터 조작 방법](get-started/data.md)
-* [직원 정보 관리](get-started/staff-basic/README.md)
-  * [직원 정보 추가](get-started/staff-basic/adding.md)
-  * [직원 정보 수정](get-started/staff-basic/correction.md)
-  * [퇴직 처리 및 조회](get-started/staff-basic/out.md)
-* [학급 공통 정보 설정](get-started/class-setting/README.md)
-  * [교시 시간 설정](get-started/class-setting/time.md)
-  * [강의실 관리](get-started/class-setting/room.md)
-  * [과목 관리](get-started/class-setting/subject.md)
-  * [수업 종류 관리](get-started/class-setting/category.md)
-  * [수납 항목 관리](get-started/class-setting/p-items.md)
-* [학급 생성과 관리](get-started/class/README.md)
-  * [새로운 학급 만들기](get-started/class/add-class.md)
-  * [학급에 수납 항목 추가](get-started/class/add-tuition.md)
-  * [수업 일정 만들기](get-started/class/planning.md)
-  * [수업 수동 생성](get-started/class/create-schedule.md)
-* [학생 추가와 입반](get-started/student/README.md)
-  * [학생 정보 추가](get-started/student/adding.md)
-  * [학생 정보 검색/수정/삭제](get-started/student/searching.md)
-  * [학생을 학급에 입반 시키기](get-started/student/class-in.md)
-  * [수납 항목 가져오기](get-started/student/retrieve.md)
 
-## 문자 기능 <a href="#message" id="message"></a>
+## 🤖 기본 기능 <a href="#basic-features" id="basic-features"></a>
 
-* [발신 번호 사전 등록](message/pre-registration/README.md)
-  * [통신서비스 이용 증명원 발급 방법](message/pre-registration/certificate.md)
-* [문자 보내기](message/send.md)
-* [보낸 문자 확인하기](message/result.md)
-* [발신 번호 변경 및 추가](message/add-hp.md)
-* [문자 발송 또는 수신에 실패할 경우](message/fail.md)
+* [기본 데이터 조작 방법](basic-features/data.md)
+* [직원 정보 관리](basic-features/staff-basic/README.md)
+  * [직원 정보 추가](basic-features/staff-basic/adding.md)
+  * [직원 정보 수정](basic-features/staff-basic/correction.md)
+  * [퇴직 처리 및 조회](basic-features/staff-basic/out.md)
+* [학급 공통 정보 설정](basic-features/class-setting/README.md)
+  * [교시 시간 설정](basic-features/class-setting/time.md)
+  * [강의실 관리](basic-features/class-setting/room.md)
+  * [과목 관리](basic-features/class-setting/subject.md)
+  * [수업 종류 관리](basic-features/class-setting/category.md)
+  * [수납 항목 관리](basic-features/class-setting/p-items.md)
+* [학급 생성과 관리](basic-features/class/README.md)
+  * [새로운 학급 만들기](basic-features/class/add-class.md)
+  * [학급에 수납 항목 추가](basic-features/class/add-tuition.md)
+  * [수업 일정 만들기](basic-features/class/planning.md)
+  * [수업 수동 생성](basic-features/class/create-schedule.md)
+* [학생 추가와 입반](basic-features/student/README.md)
+  * [학생 정보 추가](basic-features/student/adding.md)
+  * [학생 정보 검색/수정/삭제](basic-features/student/searching.md)
+  * [학생을 학급에 입반 시키기](basic-features/student/class-in.md)
+  * [수납 항목 가져오기](basic-features/student/retrieve.md)
+* [문자 기능](basic-features/message/README.md)
+  * [발신 번호 사전 등록](basic-features/message/pre-registration/README.md)
+    * [통신서비스 이용 증명원 발급 방법](basic-features/message/pre-registration/certificate.md)
+  * [문자 보내기](basic-features/message/send.md)
+  * [보낸 문자 확인하기](basic-features/message/result.md)
+  * [발신 번호 변경 및 추가](basic-features/message/add-no.md)
+  * [문자 발송 또는 수신에 실패할 경우](basic-features/message/fail.md)
 
-## 수납 관리 <a href="#payments" id="payments"></a>
+## 💳 수납 관리 <a href="#payments" id="payments"></a>
 
 * [연동 결제 단말기 신청](payments/allthatpay.md)
 * [수강료 관리](payments/tuition-mgmt/README.md)
@@ -50,9 +50,10 @@
   * [자동 생성 설정하기](payments/tuition-mgmt/undefined-1.md)
 * [미납 관리](payments/unpaid/README.md)
   * [미납 조회하기](payments/unpaid/searching.md)
-  * [미납 문자 발송하기](payments/unpaid/message.md)
-* [수납 진행하기](payments/receiving/README.md)
+  * [미납 문자 및 결제 알림톡 발송](payments/unpaid/message.md)
+* [수강료 수납](payments/receiving/README.md)
   * [수강료 수납하기](payments/receiving/charging.md)
+  * [수납 내역 조회](payments/receiving/charging-1.md)
   * [결제 취소하기](payments/receiving/cancel.md)
 * [문자결제(결제선생) 사용하기](payments/payssam/README.md)
   * [결제선생 가입하기](payments/payssam/signup.md)
@@ -66,7 +67,7 @@
   * [기타 수납 현황 조회](payments/lookup/etc.md)
 * [결제 관련 정보 설정](payments/info.md)
 
-## 수업 관리 <a href="#class" id="class"></a>
+## ⏰ 수업 관리 <a href="#class" id="class"></a>
 
 * [전체 시간표](class/schedule/README.md)
   * [🚧 기본 설정과 검색 기능](class/schedule/undefined.md)
@@ -79,7 +80,7 @@
   * [코칭 수업 출결 체크](class/coaching/attendance.md)
   * [코칭 결과 관리](class/coaching/result.md)
 
-## 시험 기능 <a href="#test" id="test"></a>
+## 💯 시험 기능 <a href="#test" id="test"></a>
 
 * [시험 추가와 관리](test/add-test/README.md)
   * [시험 생성과 수정](test/add-test/new.md)
@@ -96,7 +97,7 @@
   * [등급컷 추가](test/test-result/grade.md)
   * [성적표 인쇄 및 문자 발송](test/test-result/print.md)
 
-## 연동 홈페이지 설정 <a href="#homepage" id="homepage"></a>
+## ⚙ 연동 홈페이지 설정 <a href="#homepage" id="homepage"></a>
 
 * [맥가이와 학원 홈페이지 연동하기](homepage/link.md)
 * [홈페이지 기본 구성 살펴보기](homepage/general.md)
@@ -111,7 +112,7 @@
   * [홈페이지 학원 정보 변경](homepage/settings/undefined.md)
 * [홈페이지 이용 현황 보기](homepage/analytics.md)
 
-## 연동 홈페이지 활용 <a href="#utilizing-homepage" id="utilizing-homepage"></a>
+## 🌐 연동 홈페이지 활용 <a href="#utilizing-homepage" id="utilizing-homepage"></a>
 
 * [설명회 모집](utilizing-homepage/presentation.md)
 * [🚧 입학테스트 예약 관리](utilizing-homepage/admission-test.md)

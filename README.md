@@ -27,22 +27,22 @@ description: 맥가이 사용 가이드를 보는 방법과 목차를 안내 합
 3. [사용료 및 포인트 결제](get-started/fee/): 맥가이 서비스 이용을 위한 사용료 및 포인트 결제 방법을 알아봅니다
    * 월 사용료 결제
    * 포인트 결제
-4. [기본 데이터 조작 방법](get-started/data.md): 맥가이 내에서 데이터를 추가, 수정 및 삭제할 때 사용 되는 공통 구성 요소를 안내합니다.
-5. [직원 정보 관리](get-started/staff-basic/): 맥가이를 사용하기 위해 직원 정보를 추가하고 관리하는 방법을 알아봅니다.
+4. [기본 데이터 조작 방법](basic-features/data.md): 맥가이 내에서 데이터를 추가, 수정 및 삭제할 때 사용 되는 공통 구성 요소를 안내합니다.
+5. [직원 정보 관리](basic-features/staff-basic/): 맥가이를 사용하기 위해 직원 정보를 추가하고 관리하는 방법을 알아봅니다.
    * 직원 정보 추가
    * 직원 정보 수정
    * 퇴직 처리 및 조회
-6. [학급 공통 정보 설정](get-started/class-setting/): 학급 추가 시 공통으로 사용되는 정보를 설정합니다.
+6. [학급 공통 정보 설정](basic-features/class-setting/): 학급 추가 시 공통으로 사용되는 정보를 설정합니다.
    * 교시 시간 설정
    * 강의실 관리
    * 과목 관리
    * 수업 종류 관리
    * 수납 항목 관리
-7. [학급 생성과 관리](get-started/class/): 학급을 만들고 수납 항목 및 수업 스케줄을 추가하는 방법을 살펴봅니다.
+7. [학급 생성과 관리](basic-features/class/): 학급을 만들고 수납 항목 및 수업 스케줄을 추가하는 방법을 살펴봅니다.
    * 새로운 학급 만들기
    * 학급에 수납 항목 추가
    * 수업 스케줄 만들기
-8. [학생 추가와 입반](get-started/student/): 학생 정보를 맥가이에 추가하고 학급에 입반 시키는 방법을 알아봅니다.
+8. [학생 추가와 입반](basic-features/student/): 학생 정보를 맥가이에 추가하고 학급에 입반 시키는 방법을 알아봅니다.
    * 학생 정보 추가
    * 학생 정보 검색, 수정 및 삭제
    * 학생을 학급에 입반 시키기
@@ -51,11 +51,11 @@ description: 맥가이 사용 가이드를 보는 방법과 목차를 안내 합
 
 문자 기능을 사용하기 위해 필요한 내용을 볼 수 있어요.
 
-1. [발신 번호 사전 등록](message/pre-registration/)
-2. [문자 보내기](message/send.md)
-3. [보낸 문자 확인하기](message/result.md)
-4. [문자 발신 번호 변경 및 추가](message/add-hp.md)
-5. [문자 발송 또는 수신에 실패할 경우](message/fail.md)
+1. [발신 번호 사전 등록](basic-features/message/pre-registration/)
+2. [문자 보내기](basic-features/message/send.md)
+3. [보낸 문자 확인하기](basic-features/message/result.md)
+4. [문자 발신 번호 변경 및 추가](basic-features/message/add-no.md)
+5. [문자 발송 또는 수신에 실패할 경우](basic-features/message/fail.md)
 {% endtab %}
 
 {% tab title="수납 관리" %}

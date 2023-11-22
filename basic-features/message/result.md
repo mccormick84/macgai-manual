@@ -10,7 +10,7 @@ description: 보낸 문자의 내용과 전송 상태를 확인하는 방법을 
 
 ## 검색 조건 지정하기
 
-<figure><img src="../.gitbook/assets/검색조건 지정하기.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/검색조건 지정하기.png" alt=""><figcaption></figcaption></figure>
 
 * **년월**: 검색할 날짜 조건을 지정합니다
 * **발신자**: 문자를 보낸 사람을 선택합니다.
@@ -28,19 +28,19 @@ description: 보낸 문자의 내용과 전송 상태를 확인하는 방법을 
 
 ## 검색 결과 조회
 
-검색 조건을 지정하고 <img src="../.gitbook/assets/btn_검색 (1).png" alt="" data-size="line">을 누르면 조건에 맞는 문자 발송 내역이 리스트로 출력됩니다. 각 메시지를 누르면 전체 내용을 확인할 수 있습니다.
+검색 조건을 지정하고 <img src="../../.gitbook/assets/btn_검색 (1).png" alt="" data-size="line">을 누르면 조건에 맞는 문자 발송 내역이 리스트로 출력됩니다. 각 메시지를 누르면 전체 내용을 확인할 수 있습니다.
 
-<figure><img src="../.gitbook/assets/문자 검색결과 조회.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/문자 검색결과 조회.png" alt=""><figcaption></figcaption></figure>
 
 ### 미발송 예약 문자 취소
 
 발송 되지 않은 예약 문자를 취소 처리할 수 있습니다. 취소된 메시지의 발송 비용은 포인트로 환원 됩니다.
 
-<figure><img src="../.gitbook/assets/예약문자취소.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/예약문자취소.png" alt=""><figcaption></figcaption></figure>
 
-* 검색 조건에서 <img src="../.gitbook/assets/number-1.png" alt="" data-size="line"> **전송상태 - 예약문자**를 선택 후 <img src="../.gitbook/assets/btn_검색 (1).png" alt="" data-size="line"> 진행
-  1. **개별 메시지 예약 취소**: 개별 메시지 우측의 <img src="../.gitbook/assets/number-2.png" alt="" data-size="line"><img src="../.gitbook/assets/btn_delete.png" alt="" data-size="line"> 버튼을 누릅니다.
-  2. **일괄 선택 취소**: 삭제 할 문자의 체크박스 (가장 왼쪽)를 선택하고 <img src="../.gitbook/assets/number-3.png" alt="" data-size="line"> <img src="../.gitbook/assets/btn_선택삭제.png" alt="" data-size="line">를 누르면 일괄 취소 처리 됩니다.
+* 검색 조건에서 <img src="../../.gitbook/assets/number-1.png" alt="" data-size="line"> **전송상태 - 예약문자**를 선택 후 <img src="../../.gitbook/assets/btn_검색 (1).png" alt="" data-size="line"> 진행
+  1. **개별 메시지 예약 취소**: 개별 메시지 우측의 <img src="../../.gitbook/assets/number-2.png" alt="" data-size="line"><img src="../../.gitbook/assets/btn_delete.png" alt="" data-size="line"> 버튼을 누릅니다.
+  2. **일괄 선택 취소**: 삭제 할 문자의 체크박스 (가장 왼쪽)를 선택하고 <img src="../../.gitbook/assets/number-3.png" alt="" data-size="line"> <img src="../../.gitbook/assets/btn_선택삭제.png" alt="" data-size="line">를 누르면 일괄 취소 처리 됩니다.
 
 
 

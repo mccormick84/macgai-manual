@@ -31,7 +31,7 @@ description: 맥가이의 사용료 결제 방법을 알아봅니다.
 
 맥가이 하단 영역 우측의 <img src="../../.gitbook/assets/btn_연장하기.png" alt="" data-size="line"> 버튼을 누르면 사용료 결제를 할 수 있습니다. 사용기간 만료 1주일 남은 시점 부터 결제 창이 노출됩니다.&#x20;
 
-사용료 결제 권한이 부여된 사용자만 확인 및 결제가 가능합니다. [사용료 결제 권한 지정 방법↗](../staff-basic/adding.md#4.)
+사용료 결제 권한이 부여된 사용자만 확인 및 결제가 가능합니다. [사용료 결제 권한 지정 방법↗](../../basic-features/staff-basic/adding.md#4.)
 
 <figure><img src="../../.gitbook/assets/사용료결제.png" alt=""><figcaption></figcaption></figure>
 
