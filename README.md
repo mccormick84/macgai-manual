@@ -51,7 +51,7 @@ description: 맥가이 사용 가이드를 보는 방법과 목차를 안내 합
 
 문자 기능을 사용하기 위해 필요한 내용을 볼 수 있어요.
 
-1. [발신 번호 사전 등록](basic-features/message/pre-registration/)
+1. [발신 번호 사전 등록](basic-features/message/pre-registration.md)
 2. [문자 보내기](basic-features/message/send.md)
 3. [보낸 문자 확인하기](basic-features/message/result.md)
 4. [문자 발신 번호 변경 및 추가](basic-features/message/add-no.md)
