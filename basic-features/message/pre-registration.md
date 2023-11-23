@@ -14,7 +14,7 @@
 
 발신번호 등록을 위해 아래의 서류가 필요해요.&#x20;
 
-1. **통신서비스 이용증명원** ([발급 방법](pre-registration.md#undefined-3))
+1. **통신서비스 이용증명원** ([발급 방법](pre-registration.md#undefined-2))
 2. 학원 또는 기관의 사업자 등록증 사본
 3. 대리인 신분증 사본 (발신 번호 등록을 요청하는 사람)
    * 사업체의 대표자가 아닌 경우만 제출
@@ -25,15 +25,11 @@
 
 {% file src="../../.gitbook/assets/위수탁계약서(발신번호 사전 등록).docx" %}
 
-6. **위임장**: 인쇄 후 내용 기입 및 도장 날인 후 파일로스캔하여 아래의 신청 링크를 통해 전달
+6. **위임장**: 인쇄 후 내용 기입 및 도장 날인 후 파일로 스캔하여 아래의 신청 링크를 통해 전달
 
 {% file src="../../.gitbook/assets/등록 위임장(발신번호 사전 등록).pdf" %}
 
 {% file src="../../.gitbook/assets/등록 위임장(발신번호 사전 등록).docx" %}
-
-{% hint style="success" %}
-위수탁 계약서 및 위임장 한 번에 내려받기: [다운로드](https://1drv.ms/f/s!AhL9WRphP7TBg69iCmOK9b0if12vBw?e=pZWsSQ)
-{% endhint %}
 
 ## 전달 방법
 
