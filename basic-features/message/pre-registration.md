@@ -19,12 +19,17 @@
 3. 대리인 신분증 사본 (발신 번호 등록을 요청하는 사람)
    * 사업체의 대표자가 아닌 경우만 제출
 4. 신청자의 재직증명서 (3개월 이내 발급 건)
-5. **위수탁 계약서**: 인쇄 후 내용 기입 및 서명 날인 후 스캔 정현소프트 측으로 전달주세요.
-   * [위수탁 계약서 다운로드 (PDF)](https://1drv.ms/b/s!AhL9WRphP7TBg69qLq7\_b8lJy\_\_XMA?e=arBUba)
-   * [위수탁 계약서 다운로드 (워드)](https://1drv.ms/w/s!AhL9WRphP7TBg69pjU5R1iumiwlpGg?e=hxxCzW)
-6. **위임장**: 인쇄 후 내용 기입 및 서명 날인 후 스캔 정현소프트 측으로 전달주세요.
-   * [위임장 다운로드 (PDF)](https://1drv.ms/b/s!AhL9WRphP7TBg69n76Pk3lePjQc7JA?e=2z45tp)
-   * [위임장 다운로드 (워드)](https://1drv.ms/w/s!AhL9WRphP7TBg69oiKgw0bitldNeZQ?e=p7DdAI)
+5. **위수탁 계약서**: 인쇄 후 내용 기입 및 도장 날인 후 파일로 스캔하여 아래의 신청 링크를 통해 전달
+
+{% file src="../../.gitbook/assets/위수탁계약서(발신번호 사전 등록).pdf" %}
+
+{% file src="../../.gitbook/assets/위수탁계약서(발신번호 사전 등록).docx" %}
+
+6. **위임장**: 인쇄 후 내용 기입 및 도장 날인 후 파일로스캔하여 아래의 신청 링크를 통해 전달
+
+{% file src="../../.gitbook/assets/등록 위임장(발신번호 사전 등록).pdf" %}
+
+{% file src="../../.gitbook/assets/등록 위임장(발신번호 사전 등록).docx" %}
 
 {% hint style="success" %}
 위수탁 계약서 및 위임장 한 번에 내려받기: [다운로드](https://1drv.ms/f/s!AhL9WRphP7TBg69iCmOK9b0if12vBw?e=pZWsSQ)
