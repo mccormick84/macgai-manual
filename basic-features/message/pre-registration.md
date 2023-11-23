@@ -26,6 +26,10 @@
    * [위임장 다운로드 (PDF)](https://1drv.ms/b/s!AhL9WRphP7TBg69n76Pk3lePjQc7JA?e=2z45tp)
    * [위임장 다운로드 (워드)](https://1drv.ms/w/s!AhL9WRphP7TBg69oiKgw0bitldNeZQ?e=p7DdAI)
 
+{% hint style="success" %}
+위수탁 계약서 및 위임장 한 번에 내려받기: [다운로드](https://1drv.ms/f/s!AhL9WRphP7TBg69iCmOK9b0if12vBw?e=pZWsSQ)
+{% endhint %}
+
 ## 전달 방법
 
 필요 서류의 준비가 완료 되시면 아래의 링크를 이용해 신청해주시면 됩니다. 신청 중에 궁금하신 내용은 우측 상단의 고객센터를 이용해주세요! 제출 승인까지는 서류 제출 후 영업일 기준 최대 3일 까지 소요될 수 있습니다.
