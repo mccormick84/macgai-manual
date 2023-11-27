@@ -4,6 +4,8 @@ description: 메시지 템플릿을 만들어 발송 시 사용할 수 있어요
 
 # 저장 메시지 관리
 
+관련 기능: [저장 메시지를 이용해 문자 보내기↗](send.md#2-b)
+
 ## 저장 메시지 등록하기
 
 <figure><img src="../../.gitbook/assets/저장메시지.png" alt=""><figcaption></figcaption></figure>
@@ -12,19 +14,7 @@ description: 메시지 템플릿을 만들어 발송 시 사용할 수 있어요
 2. 저장메시지의 **제목을 입력**합니다.
 3. :white\_check\_mark: 학원 내 공유: 학원 내 공유 여부를 선택합니다. 체크 상태에서 저장 시 모든 직원이 해당 저장 메시지를 사용할 수 있어요.
 4. <img src="../../.gitbook/assets/btn_문자저장.png" alt="" data-size="line">: 메시지를 저장합니다.
-5. 저장 메시지 리스트
-
-## 저장 메시지 관리
-
-### 저장 메시지 등록하기
-
-<figure><img src="../../.gitbook/assets/저장메시지.png" alt=""><figcaption></figcaption></figure>
-
-1. 메시지 필드에 내용을 입력합니다.&#x20;
-2. &#x20;저장메시지의 제목을 입력합니다.
-3. 학원 내 공유 여부를 선택합니다. 체크 상태에서 저장 시 모든 직원이 해당 저장메시지를 사용할 수 있어요.
-4. <img src="../../.gitbook/assets/btn_문자저장.png" alt="" data-size="line">: 메시지를 저장합니다.
-5. 저장된 메시지가 표시 됩니다.
+5. 저장 메시지 리스트가 표시 됩니다.
 
 ## 저장 메시지 수정
 
