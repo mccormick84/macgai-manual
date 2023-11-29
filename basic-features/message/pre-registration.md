@@ -18,22 +18,22 @@ description: 웹에서 특정 번호를 이용해 문자를 보내려면 발신 
 
 ### A. 학원의 대표 번호 신청 시
 
-1. 통신서비스 이용증명원&#x20;
+1. <img src="../../.gitbook/assets/btn_필수.svg" alt="" data-size="original"> **통신서비스 이용증명원**&#x20;
    * [통신사 별 이용증명원 발급 방법 →](pre-registration.md#undefined-2)
-2. 사업자 등록증 사본
-3. 위수탁 계약서&#x20;
-   * 인쇄 후 내용 기입 및 도장 날인 후 파일로 스캔하여 아래의 신청 링크를 통해 전달
-   * [다운로드 바로가기](pre-registration.md#4.)
-4. 등록 위임장&#x20;
-   * 인쇄 후 내용 기입 및 도장 날인 후 파일로 스캔하여 아래의 신청 링크를 통해 전달
-   * [다운로드 바로가기](pre-registration.md#4.)
+2. <img src="../../.gitbook/assets/btn_필수.svg" alt="" data-size="original"> **사업자 등록증 사본**&#x20;
+3. <img src="../../.gitbook/assets/btn_필수.svg" alt="" data-size="original"> **위수탁 계약서**
+   * 인쇄 후 내용 기입 및 도장 날인 후 스캔하여 아래의 신청 링크를 통해 전달
+     * 위수탁계약서: [PDF 다운로드](https://www.dropbox.com/scl/fi/zv08lo2z0khsxos2atjg1/.pdf?rlkey=1q567c1rpk7cbam6a498i54rj\&dl=1) 또는 [워드 파일 다운로드](https://www.dropbox.com/scl/fi/djoxlf9o36pwfwsjxwqbq/.docx?rlkey=3aiahibsotkbjz3nlfom5m05z\&dl=1)
+4. <img src="../../.gitbook/assets/btn_필수.svg" alt="" data-size="original"> **등록 위임장**
+   * 인쇄 후 내용 기입 및 도장 날인 후 스캔하여 아래의 신청 링크를 통해 전달
+     * 등록 위임장: [PDF 다운로드](https://www.dropbox.com/scl/fi/81n88r1lz5dwealkp4ln6/.pdf?rlkey=zcw19eug9kbozc2hlhetaxe69\&dl=1) 또는 [워드 파일 다운로드](https://www.dropbox.com/scl/fi/vcdvt5z1k2ccmhmdh7a9l/.docx?rlkey=u2zsm23mv0hxdwh8krczybc42\&dl=1)
 
 ### B. 대표 번호 외의 추가 번호 신청 시
 
 대표 번호가 아닌 추가 발신 번호를 신청한 경우 위의 '[학원의 대표 번호 신청 시](pre-registration.md#undefined)'에 포함된 서류와 아래의 서류를 추가로 준비해주셔야 해요.
 
-1. 신청자 (직원 또는 대표자)의 **재직증명서**
-2. 신청자 **신분증 사본** (주민번호 뒷자리 마스킹)
+1. <img src="../../.gitbook/assets/btn_필수.svg" alt="" data-size="original"> 신청자 (직원 또는 대표자)의 **재직증명서**
+2. <img src="../../.gitbook/assets/btn_필수.svg" alt="" data-size="original"> 신청자 **신분증 사본** (주민번호 뒷자리 마스킹)
 
 {% hint style="warning" %}
 <mark style="color:red;">**사업자 등록증이 없으신가요?**</mark>
@@ -108,19 +108,3 @@ description: 웹에서 특정 번호를 이용해 문자를 보내려면 발신 
 * 헬로모바일SKT (070-8188-0114)
 {% endtab %}
 {% endtabs %}
-
-## 4. 서류 양식 다운로드
-
-pdf와 워드(docx) 양식 중 어느 것을 사용하셔도 무방합니다.
-
-### 위수탁 계약서
-
-{% file src="../../.gitbook/assets/위수탁계약서(발신번호 사전 등록).pdf" %}
-
-{% file src="../../.gitbook/assets/위수탁계약서(발신번호 사전 등록).docx" %}
-
-### 등록 위임장
-
-{% file src="../../.gitbook/assets/등록 위임장(발신번호 사전 등록).pdf" %}
-
-{% file src="../../.gitbook/assets/등록 위임장(발신번호 사전 등록).docx" %}
