@@ -14,34 +14,56 @@ description: 웹에서 특정 번호를 이용해 문자를 보내려면 발신 
 
 ## 1. 신청 시 필요 서류
 
-발신번호 등록을 위해 아래의 서류가 필요해요. 번호 유형 및 신청인에 따라 필요한 서류가 다르니 정확히 확인해 주셔야 합니다!
+발신번호 등록을 위해 아래의 서류가 필요해요.&#x20;
+
+{% hint style="danger" %}
+<mark style="color:red;">**작성 시 주의 사항**</mark>
+
+아래의 사항을 잘 지켜주셔야 빠른 진행이 가능하니 서류 준비 전에 반드시 읽어주세요!
+
+1. 신청 번호의 명의 유형에 따라 제출 서류가 달라요.
+2. 아래에 안내된 모든 서류는 **필수 제출**입니다. 누락이 없도록 잘 확인해주세요!
+3. 위수탁 계약서 및 등록 위임장의 서명란에는 반드시 **도장 날인**이 필요합니다.&#x20;
+{% endhint %}
 
 ### A. 학원의 대표 번호 신청 시
 
-1. <img src="../../.gitbook/assets/btn_필수.svg" alt="" data-size="original"> **통신서비스 이용증명원**&#x20;
+1. **통신서비스 이용증명원**&#x20;
    * [통신사 별 이용증명원 발급 방법 →](pre-registration.md#undefined-2)
-2. <img src="../../.gitbook/assets/btn_필수.svg" alt="" data-size="original"> **사업자 등록증 사본**&#x20;
-3. <img src="../../.gitbook/assets/btn_필수.svg" alt="" data-size="original"> **위수탁 계약서**
-   * 인쇄 후 내용 기입 및 도장 날인 후 스캔하여 아래의 신청 링크를 통해 전달
-     * 위수탁계약서: [PDF 다운로드](https://www.dropbox.com/scl/fi/zv08lo2z0khsxos2atjg1/.pdf?rlkey=1q567c1rpk7cbam6a498i54rj\&dl=1) 또는 [워드 파일 다운로드](https://www.dropbox.com/scl/fi/djoxlf9o36pwfwsjxwqbq/.docx?rlkey=3aiahibsotkbjz3nlfom5m05z\&dl=1)
-4. <img src="../../.gitbook/assets/btn_필수.svg" alt="" data-size="original"> **등록 위임장**
-   * 인쇄 후 내용 기입 및 도장 날인 후 스캔하여 아래의 신청 링크를 통해 전달
-     * 등록 위임장: [PDF 다운로드](https://www.dropbox.com/scl/fi/81n88r1lz5dwealkp4ln6/.pdf?rlkey=zcw19eug9kbozc2hlhetaxe69\&dl=1) 또는 [워드 파일 다운로드](https://www.dropbox.com/scl/fi/vcdvt5z1k2ccmhmdh7a9l/.docx?rlkey=u2zsm23mv0hxdwh8krczybc42\&dl=1)
+2. **사업자 등록증 사본**&#x20;
+3. **위수탁 계약서**
+   * 인쇄 후 내용 기입 및 **도장 날인(서명 불가)** 후 스캔하여 아래의 신청 링크를 통해 전달
+   * 위수탁계약서 양식: [PDF 다운로드](https://www.dropbox.com/scl/fi/zv08lo2z0khsxos2atjg1/.pdf?rlkey=1q567c1rpk7cbam6a498i54rj\&dl=1) 또는 [워드 파일 다운로드](https://www.dropbox.com/scl/fi/djoxlf9o36pwfwsjxwqbq/.docx?rlkey=3aiahibsotkbjz3nlfom5m05z\&dl=1)
+4. **등록 위임장**
+   * 인쇄 후 내용 기입 및 **도장 날인(서명 불가)** 후 스캔하여 아래의 신청 링크를 통해 전달
+   * 등록 위임장 양식: [PDF 다운로드](https://www.dropbox.com/scl/fi/81n88r1lz5dwealkp4ln6/.pdf?rlkey=zcw19eug9kbozc2hlhetaxe69\&dl=1) 또는 [워드 파일 다운로드](https://www.dropbox.com/scl/fi/vcdvt5z1k2ccmhmdh7a9l/.docx?rlkey=u2zsm23mv0hxdwh8krczybc42\&dl=1)
 
-### B. 대표 번호 외의 추가 번호 신청 시
+### A-1. 대표 번호 외의 추가 번호 신청 시
 
-대표 번호가 아닌 추가 발신 번호를 신청한 경우 위의 '[학원의 대표 번호 신청 시](pre-registration.md#undefined)'에 포함된 서류와 아래의 서류를 추가로 준비해주셔야 해요.
+학원의 대표 번호가 아닌 추가 발신 번호(사업자 혹은 법인 명의) 를 신청한 경우 위의 '[학원의 대표 번호 신청 시](pre-registration.md#undefined)' 에 포함된 서류와 함계 아래의 서류를 **추가로 준비**해주셔야 해요.
 
-1. <img src="../../.gitbook/assets/btn_필수.svg" alt="" data-size="original"> 신청자 (직원 또는 대표자)의 **재직증명서**
-2. <img src="../../.gitbook/assets/btn_필수.svg" alt="" data-size="original"> 신청자 **신분증 사본** (주민번호 뒷자리 마스킹)
+1. 신청자 (직원 또는 대표자)의 **재직증명서**
+2. 신청자 **신분증 사본** (주민번호 뒷자리 마스킹)
+
+### B. 개인 명의의 번호 신청 시
+
+1. 통신 서비스 이용 증명원
+   * [통신사 별 이용증명원 발급 방법 →](pre-registration.md#undefined-2)
+2. 신분증 사본 (주민번호 뒷자리 마스킹)
+3. 위수탁 계약서
+   * 인쇄 후 내용 기입 및 **도장 날인(서명 불가)** 후 스캔하여 아래의 신청 링크를 통해 전달
+   * 위수탁계약서 양식: [PDF 다운로드](https://www.dropbox.com/scl/fi/zv08lo2z0khsxos2atjg1/.pdf?rlkey=1q567c1rpk7cbam6a498i54rj\&dl=1) 또는 [워드 파일 다운로드](https://www.dropbox.com/scl/fi/djoxlf9o36pwfwsjxwqbq/.docx?rlkey=3aiahibsotkbjz3nlfom5m05z\&dl=1)
+4. 등록 위임장
+   * 인쇄 후 내용 기입 및 **도장 날인(서명 불가)** 후 스캔하여 아래의 신청 링크를 통해 전달
+   * 등록 위임장 양식: [PDF 다운로드](https://www.dropbox.com/scl/fi/81n88r1lz5dwealkp4ln6/.pdf?rlkey=zcw19eug9kbozc2hlhetaxe69\&dl=1) 또는 [워드 파일 다운로드](https://www.dropbox.com/scl/fi/vcdvt5z1k2ccmhmdh7a9l/.docx?rlkey=u2zsm23mv0hxdwh8krczybc42\&dl=1)
 
 {% hint style="warning" %}
 <mark style="color:red;">**사업자 등록증이 없으신가요?**</mark>
 
-**별도의 사업자가 없는 개인**(예: 여러 학원에 출강하는 단과 강사)은 **신분증 사본으로 사업자 등록증을 대체**할 수 있어요.
+**별도의 사업자가 없는 개인** (예: 여러 학원에 출강하는 단과 강사)은 **신분증 사본으로 사업자 등록증을 대체**할 수 있어요.
 {% endhint %}
 
-## 2. 신청 서류 제출 방법
+## 2. 신청 서류 제출
 
 필요 서류의 준비가 완료 되시면 아래의 링크를 이용해 신청해주시면 됩니다. 신청 중에 궁금하신 내용은 우측 상단의 고객센터를 이용해주세요! 제출 승인까지는 서류 제출 후 영업일 기준 최대 3일 까지 소요될 수 있습니다.
 
