@@ -34,7 +34,7 @@ description: 결제 관련 정보를 설정하는 방법을 살펴봅니다.
 {% hint style="info" %}
 **(참고) 맥가이와 연동 되는 홈페이지 하단에 표시되는 정보를 수정하는 방법**
 
-바로가기: [홈페이지 학원 정보 변경](../homepage/settings/undefined.md)↗
+바로가기: [홈페이지 학원 정보 변경](../homepage/settings/aca-info.md)↗
 {% endhint %}
 
 ## 2. 결제 관련 설정

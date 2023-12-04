@@ -109,7 +109,7 @@
   * [메인 이미지 설정](homepage/settings/main-image.md)
   * [바로가기 버튼 설정](homepage/settings/banner-button.md)
   * [소셜미디어 바로가기 버튼 설정](homepage/settings/social-media.md)
-  * [홈페이지 학원 정보 변경](homepage/settings/undefined.md)
+  * [홈페이지 학원 정보 변경](homepage/settings/aca-info.md)
 * [홈페이지 이용 현황 보기](homepage/analytics.md)
 
 ## 🌐 연동 홈페이지 활용 <a href="#utilizing-homepage" id="utilizing-homepage"></a>
