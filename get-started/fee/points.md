@@ -14,11 +14,11 @@ description: 문자 발송과 도메인 구매에 사용 되는 포인트 충전
 
 <img src="../../.gitbook/assets/number_circle_one_2x.svg" alt="" data-size="line"> 현재 남아있는 포인트
 
-<img src="../../.gitbook/assets/number_circle_two_2x.svg" alt="" data-size="line"><img src="../../.gitbook/assets/btn_충전하기.png" alt="" data-size="line">: 포인트를 충전합니다. 문자결제(결제선생), 신용카드, 계좌이체, 가상계좌를 이용해 결제를 진행할 수 있어요.
+<img src="../../.gitbook/assets/number_circle_two_2x.svg" alt="" data-size="line"> <img src="../../.gitbook/assets/btn_충전하기.png" alt="" data-size="line">: 포인트를 충전합니다. 문자결제(결제선생), 신용카드, 계좌이체, 가상계좌를 이용해 결제를 진행할 수 있어요.
 
 <figure><img src="../../.gitbook/assets/포인트 결제.png" alt=""><figcaption></figcaption></figure>
 
-<img src="../../.gitbook/assets/number_circle_three_2x.svg" alt="" data-size="line"><img src="../../.gitbook/assets/btn_충전이력.png" alt="" data-size="line"> 을 눌러 포인트 충전 일시 와 개별 건 충전 건의 상세내역을 조회할 수 있습니다.&#x20;
+<img src="../../.gitbook/assets/number_circle_three_2x.svg" alt="" data-size="line"> <img src="../../.gitbook/assets/btn_충전이력.png" alt="" data-size="line"> 을 눌러 포인트 충전 일시 와 개별 건 충전 건의 상세내역을 조회할 수 있습니다.&#x20;
 
 <figure><img src="../../.gitbook/assets/결제이력보기.png" alt=""><figcaption></figcaption></figure>
 
