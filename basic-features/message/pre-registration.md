@@ -26,7 +26,7 @@ description: 웹에서 특정 번호를 이용해 문자를 보내려면 발신 
 
 ### 개인 명의의 번호 신청
 
-1. 통신서비스 이용증명원 ([발급 방법](pre-registration.md#undefined-2))
+1. 통신서비스 이용증명원 ([발급 방법](pre-registration.md#undefined-6))
 2. 신분증 사본 (주민번호 뒷자리 마스킹 처리)
 3. \[개인] 등록 위임장 및 위수탁 계약서 ([다운로드](https://www.dropbox.com/scl/fi/72ec5b77hre9ni0bi48uf/.pdf?rlkey=2ryhn07yf8n1temdmonwq37gf\&dl=1))
    * 문서 인쇄 후 내용 기입 및 도장 날인(서명:x:) 후 스캔하여 제출
@@ -35,7 +35,7 @@ description: 웹에서 특정 번호를 이용해 문자를 보내려면 발신 
 
 #### 사업자(법인)의 대표 번호인 경우
 
-1. 통신서비스 이용증명원 ([발급 방법](pre-registration.md#undefined-2))
+1. 통신서비스 이용증명원 ([발급 방법](pre-registration.md#undefined-6))
 2. 사업자 등록증 사본
 3. \[사업자] 등록 위임장 및 위수탁 계약서 ([다운로드](https://www.dropbox.com/scl/fi/gcd3ot68e56mquzx0l6zi/.pdf?rlkey=ztmlqnubu7981cit5i99q86a4\&dl=1))
    * 문서 인쇄 후 내용 기입 및 도장 날인(서명:x:) 후 스캔하여 제출
