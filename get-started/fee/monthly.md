@@ -23,7 +23,11 @@ description: 맥가이의 사용료 결제 방법을 알아봅니다.
 1. **직접 결제**: 매 월 사용료를 직접 결제합니다.
 2. **정기 구독 결제**: 신용 카드를 등록해두면 만기 일자에 자동 결제가 되는 방식입니다.
 
-<figure><img src="../../.gitbook/assets/결제방법선택.png" alt=""><figcaption></figcaption></figure>
+<div align="left">
+
+<figure><img src="../../.gitbook/assets/결제방법선택.png" alt="" width="375"><figcaption></figcaption></figure>
+
+</div>
 
 ## 사용료 결제 하기
 
@@ -33,12 +37,14 @@ description: 맥가이의 사용료 결제 방법을 알아봅니다.
 
 사용료 결제 권한이 부여된 사용자만 확인 및 결제가 가능합니다. [사용료 결제 권한 지정 방법↗](../../basic-features/staff-basic/adding.md#4.)
 
-<figure><img src="../../.gitbook/assets/사용료결제.png" alt=""><figcaption></figcaption></figure>
+<div align="left">
 
-1. **결제 개월 수**: 1개월, 1년 중 선택하여 결제를 할 수 있습니다.&#x20;
-   * `적용예정` 1년 사용료 결제 시,  2개월의 사용 기간이 추가됩니다.
-2. **결제 방법**:&#x20;
-   * 신용카드, 계좌이체, 가상계좌 중 결제 유형을 선택할 수 있습니다.
+<figure><img src="../../.gitbook/assets/사용료결제.png" alt="" width="375"><figcaption></figcaption></figure>
+
+</div>
+
+1. **결제 개월 수**: 1, 3, 6개월, 1년 중 선택하여 결제를 할 수 있습니다.&#x20;
+2. **결제 방법**:  신용카드, 계좌이체, 가상계좌 중 결제 유형을 선택할 수 있습니다.
 
 ### 정기 구독 결제
 

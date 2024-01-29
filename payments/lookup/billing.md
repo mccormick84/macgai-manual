@@ -47,7 +47,7 @@ description: 청구 및 미청구 현황을 조회할 수 있습니다.
 **이용메뉴**: 관리메뉴 → 수지관리  → **수납목록**
 {% endhint %}
 
-학생이 수업을 수강 중이어서 수강료가 발생되어야 함에도 불구하고 청구가 진행되지 않은 건을 조회합니다. 수납목록 메뉴의 <img src="../../.gitbook/assets/tab_미청구목록.png" alt="" data-size="line"> 탭으로 이동해 확인할 수 있습니다.
+선택한 기간에 학생이 수업을 수강 중(또는 예정)이어서 수강료가 발생되어야 함에도 불구하고 청구가 진행되지 않은 건을 조회합니다. 수납목록 메뉴의 <img src="../../.gitbook/assets/tab_미청구목록.png" alt="" data-size="line"> 탭으로 이동해 확인할 수 있습니다.
 
 <figure><img src="../../.gitbook/assets/미청구내역조회.png" alt=""><figcaption></figcaption></figure>
 
