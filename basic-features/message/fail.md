@@ -22,14 +22,14 @@ description: 문자 발송 또는 수신이 실패할 경우 확인 방법에 �
 
 ## 2. 주요 발송 실패 사유
 
-<table><thead><tr><th width="258">실패 사유</th><th>상세 설명</th></tr></thead><tbody><tr><td>통신사로부터 결과 미수신 / 기타(timeout)</td><td><p>통신사를 통해 문자 전송 후 72시간 이내에 수신자 측 단말기에서 메시지를 받아 볼 수 없는 상태. </p><p>수신자 측의 휴대폰 재부팅 이후에도 동일한 문제가 발생할 경우 A/S를 받아 보시는 것을 권장</p></td></tr><tr><td>잘못된 번호 / 결번,비가입자</td><td>잘못된 휴대폰 번호로 문자를 발송 시도했을 경우</td></tr><tr><td>단말기 일시정지</td><td>문자를 받는 휴대전화가 일시정지 상태일 때</td></tr><tr><td>음영지역</td><td>문자를 받는 휴대전화가 음영지역에 있을 경우</td></tr><tr><td>잘못된 컨텐트</td><td>그림문자(MMS) 전송 시 첨부된 이미지의 가로 * 세로 비율이 통신사 권장 규격을 초과했을 경우</td></tr><tr><td>무선망 오류/통신사 무선망</td><td>통신사 무선망 문제로 인한 전송 실패</td></tr><tr><td>메시지 형식 오류</td><td>메시지에 전송 불가능한 문자가 포함된 경우</td></tr><tr><td>이통사 오류</td><td>통신사에서 기본 제공하는 실패 사유에 해당하지 않는 기타 원인</td></tr><tr><td>전화번호 세칙 미준수 발신번호 사용</td><td>보내는 번호의 형식이 잘못된 경우</td></tr><tr><td>번호 도용문자 서비스 가입 발신번호 사용</td><td><p>번호 도용문자 서비스에 가입 된 경우.<br>웹 발신을 위해서는 해당 서비스를 해지해주셔야 하며, 해지후 약 3~7일 </p><p>이후 정상 발송 가능합니다.</p></td></tr></tbody></table>
+<table><thead><tr><th width="255">실패 사유</th><th>상세 설명</th></tr></thead><tbody><tr><td>통신사로부터 결과 미수신 / 기타(timeout)</td><td><p>통신사를 통해 문자 전송 후 72시간 이내에 수신자 측 단말기에서 메시지를 받아 볼 수 없는 상태. </p><p>수신자 측의 휴대폰 재부팅 이후에도 동일한 문제가 발생할 경우 A/S를 받아 보시는 것을 권장</p></td></tr><tr><td>잘못된 번호 / 결번,비가입자</td><td>잘못된 휴대폰 번호로 문자를 발송 시도했을 경우</td></tr><tr><td>단말기 일시정지</td><td>문자를 받는 휴대전화가 일시정지 상태일 때</td></tr><tr><td>음영지역</td><td>문자를 받는 휴대전화가 음영지역에 있을 경우</td></tr><tr><td>잘못된 컨텐트</td><td>그림문자(MMS) 전송 시 첨부된 이미지의 가로 * 세로 비율이 통신사 권장 규격을 초과했을 경우</td></tr><tr><td>무선망 오류/통신사 무선망</td><td>통신사 무선망 문제로 인한 전송 실패</td></tr><tr><td>메시지 형식 오류</td><td>메시지에 전송 불가능한 문자가 포함된 경우</td></tr><tr><td>이통사 오류</td><td>통신사에서 기본 제공하는 실패 사유에 해당하지 않는 기타 원인</td></tr><tr><td>전화번호 세칙 미준수 발신번호 사용</td><td>보내는 번호의 형식이 잘못된 경우</td></tr><tr><td>번호 도용문자 서비스 가입 발신번호 사용</td><td><p>번호 도용문자 서비스에 가입 된 경우.<br>웹 발신을 위해서는 해당 서비스를 해지해주셔야 하며, 해지후 약 3~7일 </p><p>이후 정상 발송 가능합니다.</p></td></tr><tr><td>전송시간초과</td><td>단말기에서 문자를 수신하지 않음<br>(LMS 또는 MMS를 직접 눌러서 수신하도록 설정을 변경한 경우 해당)</td></tr></tbody></table>
 
 
 
 ## 3. 고객이 문자 수신을 받지 못한 경우
 
 {% hint style="info" %}
-발송은 성공으로 확인 되나 문자를 수신하지 못한 경우에 대해 안내합니다.
+전송 결과는 성공으로 확인 되나 문자를 수신하지 못한 경우에 대해 안내합니다.
 {% endhint %}
 
 수신자 번호가 이동통신사에서 제공하는 ‘스팸필터링’ 서비스에 가입 된 경우 최근 스팸 신고 된 문자와 유사한 내용의 문자를 자동으로 차단하게 됩니다.
@@ -40,33 +40,35 @@ description: 문자 발송 또는 수신이 실패할 경우 확인 방법에 �
 
 ### 이동통신사 별 스팸필터링 확인 방법
 
-#### **SK**T
+{% tabs %}
+{% tab title="SKT" %}
+1. 웹에서 확인: [https://www.tworld.co.kr](https://www.tworld.co.kr)
+   * \[상품서비스] → \[부가서비스] → \[문자 스팸 필터링]
+2. 모바일 앱: **T스팸필터링**
+   * 구글플레이\
+     [https://play.google.com/store/apps/details?id=com.skt.skaf.OA000292101\&pcampaignid=web\_share](https://play.google.com/store/apps/details?id=com.skt.skaf.OA000292101\&pcampaignid=web\_share)
+   * 앱스토어[https://apps.apple.com/kr/app/t%EC%8A%A4%ED%8C%B8%ED%95%84%ED%84%B0%EB%A7%81/id447324256](https://apps.apple.com/kr/app/t%EC%8A%A4%ED%8C%B8%ED%95%84%ED%84%B0%EB%A7%81/id447324256)
+{% endtab %}
 
-* 웹에서 확인: [https://www.tworld.co.kr](https://www.tworld.co.kr)
-  * \[상품서비스] → \[부가서비스] → \[문자 스팸 필터링]
-* 모바일 앱: **T스팸필터링**
-  * 구글플레이\
-    [https://play.google.com/store/apps/details?id=com.skt.skaf.OA000292101\&pcampaignid=web\_share](https://play.google.com/store/apps/details?id=com.skt.skaf.OA000292101\&pcampaignid=web\_share)
-  * 앱스토어[https://apps.apple.com/kr/app/t%EC%8A%A4%ED%8C%B8%ED%95%84%ED%84%B0%EB%A7%81/id447324256](https://apps.apple.com/kr/app/t%EC%8A%A4%ED%8C%B8%ED%95%84%ED%84%B0%EB%A7%81/id447324256)
+{% tab title="KT" %}
+1. 웹에서 확인: [https://product.kt.com/](https://product.kt.com/)&#x20;
+   * \[상품] → \[모바일] → \[부가서비스] → \[안심/보험] → 스팸차단]
+2. 모바일 앱: **KT 스팸차단**
+   *   구글플레이
 
-#### **KT**&#x20;
+       [https://play.google.com/store/apps/details?id=com.olleh.spam\&pcampaignid=web\_share](https://play.google.com/store/apps/details?id=com.olleh.spam\&pcampaignid=web\_share)
+   * 앱스토어\
+     [https://apps.apple.com/kr/app/kt-%EC%8A%A4%ED%8C%B8%EC%B0%A8%EB%8B%A8/id397692999](https://apps.apple.com/kr/app/kt-%EC%8A%A4%ED%8C%B8%EC%B0%A8%EB%8B%A8/id397692999)
+{% endtab %}
 
-* 웹에서 확인: [https://product.kt.com/](https://product.kt.com/)&#x20;
-  * \[상품] → \[모바일] → \[부가서비스] → \[안심/보험] → 스팸차단]
-* 모바일 앱: **KT 스팸차단**
-  *   구글플레이
-
-      [https://play.google.com/store/apps/details?id=com.olleh.spam\&pcampaignid=web\_share](https://play.google.com/store/apps/details?id=com.olleh.spam\&pcampaignid=web\_share)
-  * 앱스토어\
-    [https://apps.apple.com/kr/app/kt-%EC%8A%A4%ED%8C%B8%EC%B0%A8%EB%8B%A8/id397692999](https://apps.apple.com/kr/app/kt-%EC%8A%A4%ED%8C%B8%EC%B0%A8%EB%8B%A8/id397692999)
-
-**LGU+**
-
-* 웹에서 확인: [https://www.lguplus.com/support](https://www.lguplus.com/support)&#x20;
-  * \[모바일 요금제] → \[부가서비스] → \[통화/메시지] → \[스팸차단]
-* 모바일 앱: **U+스팸차단**
-  * 구글플레이\
-    [https://play.google.com/store/apps/details?id=com.lguplus.blocksmishing\&pcampaignid=web\_share](https://play.google.com/store/apps/details?id=com.lguplus.blocksmishing\&pcampaignid=web\_share)
-  * 앱스토어\
-    [https://apps.apple.com/kr/app/u-%EC%8A%A4%ED%8C%B8%EC%B0%A8%EB%8B%A8/id994846408](https://apps.apple.com/kr/app/u-%EC%8A%A4%ED%8C%B8%EC%B0%A8%EB%8B%A8/id994846408)
+{% tab title="LG U+" %}
+1. 웹에서 확인: [https://www.lguplus.com/support](https://www.lguplus.com/support)&#x20;
+   * \[모바일 요금제] → \[부가서비스] → \[통화/메시지] → \[스팸차단]
+2. 모바일 앱: **U+스팸차단**
+   * 구글플레이\
+     [https://play.google.com/store/apps/details?id=com.lguplus.blocksmishing\&pcampaignid=web\_share](https://play.google.com/store/apps/details?id=com.lguplus.blocksmishing\&pcampaignid=web\_share)
+   * 앱스토어\
+     [https://apps.apple.com/kr/app/u-%EC%8A%A4%ED%8C%B8%EC%B0%A8%EB%8B%A8/id994846408](https://apps.apple.com/kr/app/u-%EC%8A%A4%ED%8C%B8%EC%B0%A8%EB%8B%A8/id994846408)
+{% endtab %}
+{% endtabs %}
 
