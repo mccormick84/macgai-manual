@@ -97,7 +97,7 @@
   * [등급컷 추가](test/test-result/grade.md)
   * [성적표 인쇄 및 문자 발송](test/test-result/print.md)
 
-## ⚙ 연동 홈페이지 설정 <a href="#homepage" id="homepage"></a>
+## ⚙️ 연동 홈페이지 설정 <a href="#homepage" id="homepage"></a>
 
 * [맥가이와 학원 홈페이지 연동하기](homepage/link.md)
 * [홈페이지 기본 구성 살펴보기](homepage/general.md)
