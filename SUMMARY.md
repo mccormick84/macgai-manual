@@ -17,7 +17,7 @@
   * [직원 정보 수정](basic-features/staff-basic/correction.md)
   * [퇴직 처리 및 조회](basic-features/staff-basic/out.md)
 * [학급 공통 정보 설정](basic-features/class-setting/README.md)
-  * [교시 시간 설정](basic-features/class-setting/time.md)
+  * [수업 시작 시간 설정](basic-features/class-setting/time.md)
   * [강의실 관리](basic-features/class-setting/room.md)
   * [과목 관리](basic-features/class-setting/subject.md)
   * [수업 종류 관리](basic-features/class-setting/category.md)
@@ -26,7 +26,6 @@
   * [새로운 학급 만들기](basic-features/class/add-class.md)
   * [학급에 수납 항목 추가](basic-features/class/add-tuition.md)
   * [수업 일정 만들기](basic-features/class/planning.md)
-  * [수업 수동 생성](basic-features/class/create-schedule.md)
 * [학생 추가와 입반](basic-features/student/README.md)
   * [학생 정보 추가](basic-features/student/adding.md)
   * [학생 정보 검색/수정/삭제](basic-features/student/searching.md)
@@ -69,11 +68,20 @@
 
 ## ⏰ 수업 관리 <a href="#class" id="class"></a>
 
-* [전체 시간표](class/schedule/README.md)
-  * [🚧 기본 설정과 검색 기능](class/schedule/undefined.md)
-  * [개별 스케줄 관리](class/schedule/undefined-1.md)
-  * [보충 수업 추가](class/schedule/undefined-2.md)
-  * [🚧 수업 이동](class/schedule/undefined-3.md)
+* [수업 계획 관리](class/undefined/README.md)
+  * [전체 시간표](class/undefined/undefined.md)
+  * [수업 수동 생성](class/undefined/undefined-1.md)
+  * [수업 정보 수정](class/undefined/undefined-2.md)
+  * [수업 이동](class/undefined/undefined-3.md)
+  * [보충 수업 만들기](class/undefined/undefined-4.md)
+* [🚧 출결 관리 (추가 예정)](class/undefined-1/README.md)
+  * [등하원 체크와 자동 문자 발송](class/undefined-1/undefined.md)
+  * [출석 결과 기록하기](class/undefined-1/undefined-1.md)
+  * [출결 통계 조회](class/undefined-1/undefined-2.md)
+* [수업 결과 관리](class/undefined-2/README.md)
+  * [수업 결과 기록](class/undefined-2/undefined.md)
+  * [출결 문자 발송](class/undefined-2/undefined-1.md)
+  * [수업 결과 문자 전송](class/undefined-2/undefined-2.md)
 * [코칭 수업 관리](class/coaching/README.md)
   * [코칭 스케줄 관리](class/coaching/schedule.md)
   * [홈페이지 코칭 수업 예약](class/coaching/reservation.md)
@@ -112,10 +120,8 @@
   * [홈페이지 학원 정보 변경](homepage/settings/aca-info.md)
 * [홈페이지 이용 현황 보기](homepage/analytics.md)
 
-## 🌐 연동 홈페이지 활용 <a href="#utilizing-homepage" id="utilizing-homepage"></a>
+## 🏡 연동 홈페이지 활용 <a href="#utilizing-homepage" id="utilizing-homepage"></a>
 
 * [설명회 모집](utilizing-homepage/presentation.md)
 * [🚧 입학테스트 예약 관리](utilizing-homepage/admission-test.md)
 * [온라인 강의](utilizing-homepage/online-lecture.md)
-* [🚧 학습 이력 조회](utilizing-homepage/learn-history.md)
-* [🚧 커뮤니티 기능](utilizing-homepage/community.md)

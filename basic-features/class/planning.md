@@ -4,10 +4,6 @@ description: 수업을 생성합니다. 수업이 만들어지면 출결 및 수
 
 # 수업 일정 만들기
 
-↖ 상위항목: [학급 생성과 관리](./)
-
-→ 선행 기능: [새로운 학급 만들기](add-class.md)
-
 {% hint style="success" %}
 메뉴: 기본메뉴 → 학급관리 → <mark style="color:blue;">**학급관리**</mark>
 {% endhint %}
