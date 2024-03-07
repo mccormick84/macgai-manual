@@ -14,7 +14,7 @@ description: 수업 결과를 기록할 수 있어요.
 
 접속한 직원이 학급담임 또는 수업담당으로 지정된 수업을 조회하고 결과를 입력할 수 있어요.&#x20;
 
-[수업 결과를 문자로 전송](undefined-2.md)하거나 연동 홈페이지에서 학생의 아이디로 로그인하여 조회할 수 있습니다.
+[수업 결과를 문자로 전송](undefined.md)하거나 연동 홈페이지에서 학생의 아이디로 로그인하여 조회할 수 있습니다.
 
 <figure><img src="../../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
 
