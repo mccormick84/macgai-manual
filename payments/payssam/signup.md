@@ -47,5 +47,4 @@ description: 맥가이를 통해 결제선생에 가입하는 과정을 안내�
 
 ### 결제선생(페이민트)에 직접 문의하기
 
-* 결제선생 홈페이지: [https://payssam.kr/](https://payssam.kr/)
-* 문의전화: 1800-5649
+결제 선생 카톡 상담: [https://bit.ly/payssamkakaotalk](https://bit.ly/payssamkakaotalk)
