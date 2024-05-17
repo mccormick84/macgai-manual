@@ -3,6 +3,7 @@
 ## 🐥 시작하기 <a href="#get-started" id="get-started"></a>
 
 * [맥가이 사용 가이드 목차](README.md)
+* [맥가이 시작 가이드](https://jhsoft.craft.me/macgai-starter)
 * [맥가이 접속하기](get-started/log-in.md)
 * [학생 데이터 일괄 추가](get-started/conversion.md)
 * [사용료 및 포인트 결제](get-started/fee/README.md)

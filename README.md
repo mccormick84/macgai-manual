@@ -1,16 +1,22 @@
-# 맥사이 사용 가이드 목차
+# 맥가이 사용 가이드 목차
 
 {% hint style="info" %}
 우측 상단의 🔍 **(검색)**을 누르거나 또는 단축키[^1]를 이용해 가이드의 내용을 검색할 수 있습니다
 
-가이드 관련 문의 사항은 [채팅 상담](https://macgai7.channel.io/lounge)을 이용해 주세요 :grinning:
+가이드 관련 문의는 [채팅 상담](https://macgai7.channel.io/lounge)을 이용해 주세요 :grinning:
 {% endhint %}
 
 각 소제목을 누르면 해당 페이지로 이동할 수 있어요!
 
-## **시작하기**
+## &#x20;시작하기
 
-맥가이 사용을 시작하는데 필요한 사항을 안내합니다.
+맥가이를 처음 사용하시면서 꼭 알아야 하는 것들을 알려드려요.
+
+{% hint style="info" %}
+기본 기능은 시작 가이드를 참고해주시면 좋아요!
+
+* **맥가이 시작 가이드**: [https://jhsoft.craft.me/macgai-starter](https://jhsoft.craft.me/macgai-starter)
+{% endhint %}
 
 1. [**맥가이 접속하기**](get-started/log-in.md)
 2. [**학생 데이터 일괄 추가**](get-started/conversion.md) 보유한 학생 데이터를 맥가이에 일괄 추가하는 방법
