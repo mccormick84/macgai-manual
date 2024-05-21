@@ -13,7 +13,7 @@
 맥가이를 처음 사용하시면서 꼭 알아야 하는 것들을 알려드려요.
 
 {% hint style="info" %}
-기본 기능은 시작 가이드를 참고해주시면 좋아요!
+기본 기능에 대한 안내는 시작 가이드를 참고해주시면 좋아요!
 
 * **맥가이 시작 가이드**: [https://jhsoft.craft.me/macgai-starter](https://jhsoft.craft.me/macgai-starter)
 {% endhint %}
