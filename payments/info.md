@@ -67,7 +67,7 @@ description: 결제 관련 정보를 설정하는 방법을 살펴봅니다.
 {% hint style="info" %}
 연동 단말기를 설치하실 경우 설치 업체에서 별도로 세팅을 도와드립니다.&#x20;
 
-* 참고 문서: [연동 결제 단말기 신청 방법↗](allthatpay.md)
+* 참고 문서: [연동 결제 단말기 신청 방법↗](../get-started/allthatpay.md)
 {% endhint %}
 
 <figure><img src="../.gitbook/assets/사업자 추가.png" alt=""><figcaption></figcaption></figure>

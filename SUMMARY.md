@@ -5,6 +5,7 @@
 * [맥가이 사용 가이드 목차](README.md)
 * [맥가이 접속하기](get-started/log-in.md)
 * [학생 데이터 일괄 추가](get-started/conversion.md)
+* [연동 결제 단말기 신청](get-started/allthatpay.md)
 * [사용료 및 포인트 결제](get-started/fee/README.md)
   * [월 사용료 결제](get-started/fee/monthly.md)
   * [포인트 충전하기](get-started/fee/points.md)
@@ -42,7 +43,6 @@
 
 ## 💳 수납 관리 <a href="#payments" id="payments"></a>
 
-* [연동 결제 단말기 신청](payments/allthatpay.md)
 * [수강료 관리](payments/tuition-mgmt/README.md)
   * [수강료 할인 적용](payments/tuition-mgmt/discount.md)
   * [월 수강료 생성하기](payments/tuition-mgmt/monthly.md)
@@ -50,7 +50,8 @@
   * [자동 생성 설정하기](payments/tuition-mgmt/undefined-1.md)
 * [미납 관리](payments/unpaid/README.md)
   * [미납 조회하기](payments/unpaid/searching.md)
-  * [미납 문자 및 결제 알림톡 발송](payments/unpaid/message.md)
+  * [미납 문자 보내기](payments/unpaid/message.md)
+  * [결제 알림톡 발송](payments/unpaid/message-1.md)
 * [수강료 수납](payments/receiving/README.md)
   * [수강료 수납하기](payments/receiving/charging.md)
   * [수납 내역 조회](payments/receiving/charging-1.md)
