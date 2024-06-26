@@ -124,5 +124,4 @@
 ## 🏡 연동 홈페이지 활용 <a href="#utilizing-homepage" id="utilizing-homepage"></a>
 
 * [설명회 모집](utilizing-homepage/presentation.md)
-* [🚧 입학테스트 예약 관리](utilizing-homepage/admission-test.md)
 * [온라인 강의](utilizing-homepage/online-lecture.md)
