@@ -131,4 +131,4 @@
 
 ## 🎸 기타 기능 <a href="#miscellaneous" id="miscellaneous"></a>
 
-* [도서 대여 기능](miscellaneous/undefined.md)
+* [도서 대여 기능](miscellaneous/book.md)
