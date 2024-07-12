@@ -14,6 +14,7 @@
 
 ## 🤖 기본 기능 <a href="#basic-features" id="basic-features"></a>
 
+* [용어 정리](basic-features/undefined.md)
 * [기본 데이터 조작 방법](basic-features/data.md)
 * [직원 정보 관리](basic-features/staff-basic/README.md)
   * [직원 정보 추가](basic-features/staff-basic/adding.md)
@@ -85,7 +86,7 @@
   * [수업 결과 기록](class/results/record.md)
   * [출결 문자 발송](class/results/send-attendance.md)
   * [수업 결과 문자 전송](class/results/undefined.md)
-* [코칭 수업 관리 (Beta)](class/coaching/README.md)
+* [코칭 수업 관리](class/coaching/README.md)
   * [코칭 스케줄 관리](class/coaching/schedule.md)
   * [홈페이지 코칭 수업 예약](class/coaching/reservation.md)
   * [코칭 수업 출결 체크](class/coaching/attendance.md)
@@ -107,6 +108,7 @@
   * [시험 별 결과 확인](test/test-result/check-result.md)
   * [등급컷 추가](test/test-result/grade.md)
   * [성적표 인쇄 및 문자 발송](test/test-result/print.md)
+* [🆕 원외 시험 입력 (작성 중)](test/undefined.md)
 
 ## ⚙️ 연동 홈페이지 설정 <a href="#homepage" id="homepage"></a>
 
@@ -126,3 +128,7 @@
 
 * [설명회 모집](utilizing-homepage/presentation.md)
 * [온라인 강의](utilizing-homepage/online-lecture.md)
+
+## 🎸 기타 기능 <a href="#miscellaneous" id="miscellaneous"></a>
+
+* [도서 대여 기능](miscellaneous/undefined.md)
