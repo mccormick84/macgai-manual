@@ -129,9 +129,15 @@ description: 도서 대여 기능을 사용하는 방법에 대해 살펴봅니�
 
 ### 대여 및 반납
 
-먼저 학생을 검색합니다. 학생이 검색되면 대출 및 반납을 진행할 수 있어요.  동명이인이 있거나 정보가 없는 학생을 검색한 경우 추가 검색을 위한 팝업이 열립니다.
+먼저 학생을 검색합니다. 학생이 검색되면 대출 및 반납을 진행할 수 있어요. &#x20;
 
-<figure><img src="../.gitbook/assets/image (186).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+
+동명이인이 있거나 정보가 없는  학생을 검색한 경우 추가 검색을 위한 팝업이 열립니다.
+
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 #### 이후는 대출 이력 여부에 따라 과정에 차이가 있어요.
 
