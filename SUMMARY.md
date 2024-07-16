@@ -107,7 +107,7 @@
   * [시험 별 결과 확인](test/test-result/check-result.md)
   * [등급컷 추가](test/test-result/grade.md)
   * [성적표 인쇄 및 문자 발송](test/test-result/print.md)
-* [🆕 원외 시험 입력 (베타)](test/undefined.md)
+* [🆕 원외 시험 입력 (베타)](test/external.md)
 
 ## ⚙️ 연동 홈페이지 설정 <a href="#homepage" id="homepage"></a>
 
