@@ -14,12 +14,12 @@ description: 맥가이를 통해 결제선생에 가입하는 과정을 안내�
 
 ## 1. 사업자 정보 입력하기
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. 관리메뉴 → 학원정보 → **학원정보관리** 메뉴로 이동합니다. 왼쪽 하단에 위치한 <img src="../../.gitbook/assets/btn_사업자추가.png" alt="" data-size="line"> 버튼을 눌러 결제 사업자 관리 팝업을 엽니다.
 2. <img src="../../.gitbook/assets/btn_추가.png" alt="" data-size="line"> 버튼을 눌러 사업자의 기본 정보를 입력하고 저장합니다. 사업자의 정보가 추가 되어 있다면 `3.` 으로 이동합니다.
    * 필수 입력 정보: 사용명칭, 사업자 등록번호, 표시순서
-3. 결제선생 가입을 진행할 사업자를 선택하고 문자결제 (결제선생) 섹션의 <img src="../../.gitbook/assets/image (4) (1) (1).png" alt="" data-size="line">를 누르면 가입 진행을 위한 페이지가 열립니다.
+3. 결제선생 가입을 진행할 사업자를 선택하고 문자결제 (결제선생) 섹션의 <img src="../../.gitbook/assets/image (4) (1) (1) (1).png" alt="" data-size="line">를 누르면 가입 진행을 위한 페이지가 열립니다.
 
 ## 2. 필요 서류 준비&#x20;
 
@@ -43,7 +43,7 @@ description: 맥가이를 통해 결제선생에 가입하는 과정을 안내�
 
 학원정보관리 메뉴의 <img src="../../.gitbook/assets/btn_사업자추가.png" alt="" data-size="line"> 로 들어갔을 때 문자결제상태 열이 **사용가능**으로 되어 있다면 결제 선생 연동 서비스를 사용하실 수 있어요.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 결제선생(페이민트)에 직접 문의하기
 

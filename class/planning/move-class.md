@@ -14,7 +14,7 @@ description: 수업 정보를 변경해 1회성 이동 수업을 처리 할 수 
 
 특정 수업에 포함된 1명 이상의 학생을 대상으로 하여 1회성 이동 수업을 처리할 수 있어요. 변경 가능한 정보는 아래의 이미지에서 확인해주세요!
 
-<figure><img src="../../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (17) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. 개별 수업에 마우스를 올리고 \[**학생수업이동**]을 클릭
 2. 수업 이동을 하려는 **1명 이상의 학생을** 체크하여 선택
