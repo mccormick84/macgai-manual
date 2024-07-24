@@ -2,7 +2,7 @@
 description: 080 수신 차단 번호를 포함하는 광고 문자를 보내는 방법을 알아봅니다.
 ---
 
-# 🆕 광고 문자 보내기
+# 🆕 광고 문자 기능
 
 ## 광고 문자란?
 
@@ -47,7 +47,11 @@ description: 080 수신 차단 번호를 포함하는 광고 문자를 보내는
 
 직접 내용을 입력하거나 저장메시지를 이용할 수 있어요.
 
+<div align="left">
+
 <figure><img src="https://cf.channel.io/document/spaces/7945/usermedia/669f7d61d395b6efd2e4" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 발송 전, 각 전송 대상자의 \[미리보기]를 눌러 최종 도달 내용을 확인할 수 있어요.
 
