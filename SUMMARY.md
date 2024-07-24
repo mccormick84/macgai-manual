@@ -41,6 +41,7 @@
   * [보낸 문자 확인하기](basic-features/message/result.md)
   * [발신 번호 변경 및 추가](basic-features/message/add-no.md)
   * [문자 발송 또는 수신에 실패할 경우](basic-features/message/fail.md)
+  * [광고 문자 보내기](basic-features/message/undefined.md)
 
 ## 💳 수납 관리 <a href="#payments" id="payments"></a>
 
