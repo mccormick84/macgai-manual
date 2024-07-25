@@ -33,7 +33,7 @@ description: 학교에서 진행된 내신 시험 또는 학원 외부에서 진
 * **점수, 등급**: 획득 점수 또는 등급을 입력합니다.&#x20;
   * 입력된 값이 없어도 저장할 수 있어요.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 2) 결과 다중 추가하기
 
@@ -57,7 +57,7 @@ description: 학교에서 진행된 내신 시험 또는 학원 외부에서 진
 
 엑셀 파일에 점수 및 등급을 입력하고 저장합니다. 파일 형식은 반드시 **엑셀 통합 문서** (`*.xlsx`)를 선택해서 진행해주셔야 해요.
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 \[엑셀 입력 성적 일괄 추가] 버튼을 눌러 2️⃣ 저장한 파일을 업로드 하면 입력 결과가 추가 됩니다.  \[**저장**]을 눌러 결과를 최종 저장할 수 있어요.
 

@@ -43,7 +43,7 @@ description: 맥가이를 통해 결제선생에 가입하는 과정을 안내�
 
 학원정보관리 메뉴의 <img src="../../.gitbook/assets/btn_사업자추가.png" alt="" data-size="line"> 로 들어갔을 때 문자결제상태 열이 **사용가능**으로 되어 있다면 결제 선생 연동 서비스를 사용하실 수 있어요.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 결제선생(페이민트)에 직접 문의하기
 

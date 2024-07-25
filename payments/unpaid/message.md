@@ -20,7 +20,7 @@ description: 검색 된 미납 내역을 이용해 문자 또는 결제 알림�
 
 머릿글 '이름' 왼쪽의 체크박스를 누르면 검색된 전체 학생을 선택/해제할 수 있습니다.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 2. 문자 보내기
 

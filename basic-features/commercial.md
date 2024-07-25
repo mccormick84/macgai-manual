@@ -37,11 +37,11 @@ description: 080 수신 차단 번호를 포함하는 광고 문자를 보내는
 
 ### 1. 문자보내기 메뉴에서 \[광고문자] 선택
 
-\[광고문자]를 선택하면 문자 내용 입력 UI가 변경되고, 문자의 앞뒤로 1️⃣ **(광고) 학원명**과 2️⃣ **무료수신거부 안내 번호**가 자동 삽입됩니다. 1️⃣, 2️⃣의 내용은 변경할 수 없어요.
+\[광고문자]를 선택하면 문자의 앞뒤로 1️⃣ **(광고) 학원명**과 2️⃣ **무료수신거부 안내 번호**가 자동 삽입됩니다.&#x20;
 
-* 추가되는 내용도 문자 길이 산정에 포함됩니다.
+1️⃣, 2️⃣의 내용은 변경할 수 없어요. 추가되는 내용도 문자 길이 산정에 포함됩니다.
 
-<figure><img src="https://cf.channel.io/document/spaces/7945/usermedia/669f6026039ea5b8ca5e" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 ### 2. 문자 내용을 입력합니다.
 
@@ -80,7 +80,7 @@ description: 080 수신 차단 번호를 포함하는 광고 문자를 보내는
 
 전송대상자 목록 왼쪽 하단에 위치한 \[수신거부 번호 확인]을 누르면 수신 거부 번호를 관리할 수 있어요.
 
-<figure><img src="https://cf.channel.io/document/spaces/7945/usermedia/669f7561b16e3e494b2b" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/CleanShot 2024-07-25 at 18.14.19 (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 수신 거부 등록
 
