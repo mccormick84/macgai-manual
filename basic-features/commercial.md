@@ -55,7 +55,7 @@ description: 080 수신 차단 번호를 포함하는 광고 문자를 보내는
 
 발송 전, 각 전송 대상자의 \[미리보기]를 눌러 최종 도달 내용을 확인할 수 있어요.
 
-<figure><img src="https://cf.channel.io/document/spaces/7945/usermedia/669f611af00c54e76e9d" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/CleanShot 2024-07-26 at 17.10.10.png" alt=""><figcaption></figcaption></figure>
 
 ### 3. 즉시 전송 및 예약 여부를 선택 후 문자를 발송합니다.
 
@@ -65,7 +65,7 @@ description: 080 수신 차단 번호를 포함하는 광고 문자를 보내는
 
 **발송 대기 중인 예약 문자 취소 방법**
 
-<figure><img src="https://cf.channel.io/document/spaces/7945/usermedia/669f699e9f71c7e30979" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/CleanShot 2024-07-26 at 17.10.45.png" alt=""><figcaption></figcaption></figure>
 
 1. 마이페이지 > 보낸문자메시지 > 전송상태 콤보에서 '예약 문자'를 선택
 2. 원하는 조건을 지정해 예약 문자를 검색합니다.
@@ -94,11 +94,11 @@ description: 080 수신 차단 번호를 포함하는 광고 문자를 보내는
 
 1️⃣ 수신 거부 목록에 추가할 번호를 입력하고 \[**번호를 수신 거부 목록에 추가**] 버튼을 눌러 등록 번호를 등록합니다.
 
-<figure><img src="https://cf.channel.io/document/spaces/7945/usermedia/669f79f2627cce6ff384" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/CleanShot 2024-07-26 at 17.12.00.png" alt=""><figcaption></figcaption></figure>
 
 2️⃣ 등록이 완료 되면 상단의 리스트에서 확인할 수 있어요.
 
-<figure><img src="https://cf.channel.io/document/spaces/7945/usermedia/669f79f7decd0ed78564" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/CleanShot 2024-07-26 at 17.12.30.png" alt=""><figcaption></figcaption></figure>
 
 ### 수신 거부 해제 및 목록 삭제
 
@@ -119,4 +119,4 @@ description: 080 수신 차단 번호를 포함하는 광고 문자를 보내는
 
 삭제 열의 ❎ 를 눌러 등록된 번호를 삭제할 수 있어요. 수신거부도 동시에 해제 되니 주의해서 사용해주세요.
 
-<figure><img src="https://cf.channel.io/document/spaces/7945/usermedia/669f7f719415d5f5ed2c" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/CleanShot 2024-07-26 at 17.22.55.png" alt=""><figcaption></figcaption></figure>
