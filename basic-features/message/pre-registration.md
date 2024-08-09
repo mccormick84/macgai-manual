@@ -26,7 +26,7 @@ description: 유무선 번호를 이용해 문자를 보내려면 발신 번호 
 
 회원 가입 과정에서 입력하는 번호입니다. (변경이 필요한 경우 [고객센터](https://macgai7.channel.io/home)로 문의)
 
-<figure><img src="../../.gitbook/assets/image (200).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (205).png" alt=""><figcaption></figcaption></figure>
 
 ### 2️⃣ 직원의 전화번호
 
