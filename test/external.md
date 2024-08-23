@@ -4,12 +4,6 @@ description: 학교에서 진행된 내신 시험 또는 학원 외부에서 진
 
 # 🆕 원외 시험 입력 (베타)
 
-{% hint style="info" %}
-**시험 운영** 중인 기능입니다. 사용자의 의견을 수렴하여 지속적으로 개선해 나갈 예정입니다.
-
-개선 피드백은 [맥가이 고객센터](https://macgai7.channel.io/home)를 이용해주세요!
-{% endhint %}
-
 ## 1. 시험 결과 입력하기
 
 {% hint style="success" %}
