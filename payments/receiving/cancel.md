@@ -54,7 +54,7 @@ description: 결제 완료 된 수강료를 취소하는 방법을 알아봅니�
 
 **2) 결제 내역 검색 후 취소 진행**
 
-<figure><img src="../../.gitbook/assets/image (1) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 1️⃣ 날짜 및 조건을 지정해 취소를 원하는 거래 내역을 찾습니다.
 

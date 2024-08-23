@@ -68,6 +68,7 @@
   * [청구 현황 조회](payments/lookup/billing.md)
   * [수납 결과 조회](payments/lookup/result.md)
   * [기타 수납 현황 조회](payments/lookup/etc.md)
+  * [영수증 일괄 인쇄](payments/lookup/undefined.md)
 * [결제 관련 정보 설정](payments/info.md)
 
 ## ⏰ 수업 관리 <a href="#class" id="class"></a>

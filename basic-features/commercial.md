@@ -41,7 +41,7 @@ description: 080 수신 차단 번호를 포함하는 광고 문자를 보내는
 
 1️⃣, 2️⃣의 내용은 변경할 수 없어요. 추가되는 내용도 문자 길이 산정에 포함됩니다.
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 2. 문자 내용을 입력합니다.
 
