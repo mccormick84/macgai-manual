@@ -51,7 +51,7 @@ description: 학교에서 진행된 내신 시험 또는 학원 외부에서 진
 
 엑셀 파일에 점수 및 등급을 입력하고 저장합니다. 파일 형식은 반드시 **엑셀 통합 문서** (`*.xlsx`)를 선택해서 진행해주셔야 해요.
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/CleanShot 2024-09-02 at 15.59.05 (1).png" alt=""><figcaption></figcaption></figure>
 
 \[엑셀 입력 성적 일괄 추가] 버튼을 눌러 2️⃣ 저장한 파일을 업로드 하면 입력 결과가 추가 됩니다.  \[**저장**]을 눌러 결과를 최종 저장할 수 있어요.
 
