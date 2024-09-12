@@ -10,7 +10,7 @@ description: 채점 조건을 설정해 복수 정답, 다답형, 올답 등의 
 
 <figure><img src="../../../.gitbook/assets/image (211).png" alt=""><figcaption></figcaption></figure>
 
-## **기능 개요**
+## **사용 방법**
 
 ### **선다형 문항, 숫자답안 문항**
 
@@ -22,7 +22,7 @@ and, or, all 중 하나를 선택할 수 있어요
 * or : 입력한 정답 중 한 개 이상을 일치하게 마킹했을 때에는 정답으로 인정&#x20;
 * all : 입력한 정답과 상관 없이 모두 정답 처리 됩니다.
 
-**<사용 방법>**
+**<적용하기>**
 
 복수의 정답이 있는 경우 컴마(`,`)로 구분하여 입력할 수 있고 (예를 들어 1번과 3번이 정답인 경우에는 1,3 이라고 입력합니다) &#x20;
 
@@ -30,21 +30,21 @@ and, or, all 중 하나를 선택할 수 있어요
 
 ### **점수입력 문항**
 
-<조건 선택> 없음 또는 all 을 선택 할 수 있어요.
+없음 또는 all 을 선택 할 수 있어요.
 
 * 없음 : 입력한 점수로 채점됩니다
 * all : 입력한 점수와 상관 없이 모두 배점과 동일하게 득점 처리 됩니다.
 
 ## **문제 형태 별 설정 예시**
 
-### **선다형**&#x20;
+### **선다형**
 
-<figure><img src="../../../.gitbook/assets/image (208).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption><p>선다형 형태의 정답 설정</p></figcaption></figure>
 
 ### **숫자답안**
 
-<figure><img src="../../../.gitbook/assets/image (209).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption><p>숫자답안 형태의 정답 설정</p></figcaption></figure>
 
 ### **점수입력**
 
-<figure><img src="../../../.gitbook/assets/image (210).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption><p>점수입력 형태의 정답 설정</p></figcaption></figure>
