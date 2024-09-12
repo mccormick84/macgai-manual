@@ -96,7 +96,8 @@
 ## 💯 시험 기능 <a href="#test" id="test"></a>
 
 * [시험 추가와 관리](test/add-test/README.md)
-  * [시험 생성과 수정](test/add-test/new.md)
+  * [시험 생성과 수정](test/add-test/new/README.md)
+    * [채점 조건 세부 설정](test/add-test/new/answer-condition.md)
   * [시험 종류 관리](test/add-test/category.md)
   * [출력프로그램 (성적표 양식)](test/add-test/form.md)
 * [OMR을 이용한 오프라인 시험](test/omr/README.md)
