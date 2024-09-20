@@ -7,7 +7,7 @@ description: 학생 또는 학부모를 대상으로 문자메시지를 보낼 �
 {% hint style="warning" %}
 **문자 발송 전 확인**
 
-문자를 발송하기 위해서는 [**포인트 충전**](../../get-started/fee/points.md)과 [**발신 번호의 사전 등록**](pre-registration.md)이 필요합니다.
+문자를 발송하기 위해서는 [**포인트 충전**](broken-reference)과 [**발신 번호의 사전 등록**](pre-registration.md)이 필요합니다.
 {% endhint %}
 
 ## 사용 메뉴

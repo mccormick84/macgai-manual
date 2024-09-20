@@ -8,7 +8,7 @@
 
 각 소제목을 누르면 해당 페이지로 이동할 수 있어요!
 
-## &#x20;시작하기
+## 시작하기
 
 맥가이를 처음 사용하시면서 꼭 알아야 하는 것들을 알려드려요.
 
@@ -18,9 +18,9 @@
 * **맥가이 시작 가이드**: [https://jhsoft.craft.me/macgai-starter](https://jhsoft.craft.me/macgai-starter)
 {% endhint %}
 
-1. [**맥가이 접속하기**](get-started/log-in.md)
-2. [**학생 데이터 일괄 추가**](get-started/conversion.md) 보유한 학생 데이터를 맥가이에 일괄 추가하는 방법
-3. [**사용료 및 포인트 결제**](get-started/fee/) 서비스 이용을 위한 사용료 및 포인트 결제 방법을 알아봅니다
+1. [log-in.md](get-started/log-in.md "mention")
+2. [conversion.md](get-started/conversion.md "mention"): 보유한 학생 데이터를 맥가이에 일괄 추가하는 방법
+3. [monthly.md](get-started/monthly.md "mention"): 서비스 이용을 위한 사용료 및 포인트 결제 방법을 알아봅니다
 
 ## 기본 기능
 

@@ -6,11 +6,8 @@
 * [맥가이 접속하기](get-started/log-in.md)
 * [학생 데이터 일괄 추가](get-started/conversion.md)
 * [연동 결제 단말기 신청](get-started/allthatpay.md)
-* [사용료 및 포인트 결제](get-started/fee/README.md)
-  * [월 사용료 결제](get-started/fee/monthly.md)
-  * [포인트 충전하기](get-started/fee/points.md)
+* [사용료 및 포인트 결제](get-started/monthly.md)
 * [스마트콜 서비스 신청하기](get-started/smartcall.md)
-* [맥가이 시작 가이드](https://jhsoft.craft.me/macgai-starter)
 
 ## 🤖 기본 기능 <a href="#basic-features" id="basic-features"></a>
 
