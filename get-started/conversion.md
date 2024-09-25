@@ -8,7 +8,7 @@
 
 위의 첨부 파일을 내려받습니다.  컨버전 파일은 맥가이 내에서도 다운로드가 가능해요.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 ### 2. 양식 입력
 

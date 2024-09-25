@@ -41,7 +41,7 @@ description: 채점 조건을 설정해 복수 정답, 다답형, 올답 등의 
 
 문제 형태 우측에 채점 조건을 입력한 후 복사 > 붙여넣기를 진행해도 **채점조건** 열의 내용은 변경되지 않습니다.
 
-<figure><img src="../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## **문제 형태 별 설정 예시**
 
@@ -51,8 +51,8 @@ description: 채점 조건을 설정해 복수 정답, 다답형, 올답 등의 
 
 ### **숫자답안**
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>숫자답안 형태의 정답 설정</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption><p>숫자답안 형태의 정답 설정</p></figcaption></figure>
 
 ### **점수입력**
 
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption><p>점수입력 형태의 정답 설정</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption><p>점수입력 형태의 정답 설정</p></figcaption></figure>

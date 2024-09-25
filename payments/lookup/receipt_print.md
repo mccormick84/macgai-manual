@@ -20,7 +20,7 @@ description: 기간을 지정해 결제 및 취소 영수증을 일괄 인쇄할
 
 (필요한 경우) 검색 조건을 추가로 지정 합니다.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 3️⃣ 인쇄하기
 
@@ -32,7 +32,7 @@ description: 기간을 지정해 결제 및 취소 영수증을 일괄 인쇄할
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 </div>
 
