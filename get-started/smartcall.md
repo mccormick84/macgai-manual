@@ -42,4 +42,4 @@ description: 걸려온 전화의 번호를 사용 중인 PC에 표시하고 통�
 
 맥가이 스마트콜 프로그램을 다운 받아 설치 후 로그인하여 사용합니다. 설치 및 사용 방법은 매뉴얼을 참고해주세요!
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
