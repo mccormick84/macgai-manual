@@ -14,7 +14,7 @@ description: 정규 수업 외 시간에 별도로 진행되는 수업을 만들
 
 ### 1. 날짜 및 시간 선택
 
-<figure><img src="../../.gitbook/assets/image (10) (1).png" alt=""><figcaption><p>보충 수업 추가</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (10) (1) (1).png" alt=""><figcaption><p>보충 수업 추가</p></figcaption></figure>
 
 1. 보충 수업을 추가할 **주간**(Week)으로 이동합니다.
    * 목록에서 주차를 선택하거니 날짜 좌우의 `<`, `>` 버튼을 눌러 이동할 수 있습니다.

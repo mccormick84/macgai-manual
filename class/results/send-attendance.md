@@ -38,7 +38,7 @@ description: 당일 출석 현황을 문자로 발송할 수 있어요.
 
 학생들의 출결을 입력하고 **\[출석문자전송]** 버튼을 눌러 출결 문자를 발송할 수 있어요. 출결 문자는 수업 당일에만 발송할 수 있습니다.
 
-<figure><img src="../../.gitbook/assets/image (4) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. **문자종류**: 등원 문자와 미등원 안내 문자 중 무엇을 보낼 지 선택합니다.  등원, 미등원 문자 양식은 저장된 값을 이용합니다. 학생의 출결 상태에 따라 등원/미등원이 자동 선택됩니다.
    * :radio\_button: **등원**: 출(출석), 지(지각), 조(조퇴)에 체크된 경우

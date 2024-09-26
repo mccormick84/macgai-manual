@@ -8,7 +8,7 @@ description: 맥가이와 연동 되는 홈페이지의 기본 구성을 알아�
 
 각 구성요소에 대한 상세 설정 방법은 [홈페이지 세부 설정](settings/)에서 확인할 수 있습니다.
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 1️⃣ 로고 이미지
 
@@ -18,7 +18,7 @@ description: 맥가이와 연동 되는 홈페이지의 기본 구성을 알아�
 
 홈페이지 내에서 사용할 수 있는 메뉴가 표시 됩니다. 각 메뉴 이름에 마우스를 올리면 하위 메뉴가 열립니다.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 3️⃣ 메인 이미지
 

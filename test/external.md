@@ -27,7 +27,7 @@ description: 학교에서 진행된 내신 시험 또는 학원 외부에서 진
 * **점수, 등급**: 획득 점수 또는 등급을 입력합니다.&#x20;
   * 입력된 값이 없어도 저장할 수 있어요.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 2) 결과 다중 추가하기
 
@@ -41,13 +41,13 @@ description: 학교에서 진행된 내신 시험 또는 학원 외부에서 진
 
 점수 또는 등급을 입력하고 우측 상단의 \[**저장**] 버튼을 눌러 입력 결과를 최종 저장합니다.
 
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 3) 엑셀 파일 일괄 입력
 
 \[<mark style="color:blue;">**일괄 입력 엑셀 양식 받기**</mark>] 를 눌러 학생 검색 후 입력에 필요한 구분년월, 시험명, 과목 정보를 입력 후 \[<mark style="color:green;">**엑셀**</mark>] 버튼을 눌러 점수와 등급을 입력할 수 있는 엑셀 파일을 내려받습니다.
 
-<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 엑셀 파일에 점수 및 등급을 입력하고 저장합니다. 파일 형식은 반드시 **엑셀 통합 문서** (`*.xlsx`)를 선택해서 진행해주셔야 해요.
 
@@ -55,7 +55,7 @@ description: 학교에서 진행된 내신 시험 또는 학원 외부에서 진
 
 \[엑셀 입력 성적 일괄 추가] 버튼을 눌러 2️⃣ 저장한 파일을 업로드 하면 입력 결과가 추가 됩니다.  \[**저장**]을 눌러 결과를 최종 저장할 수 있어요.
 
-<figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## 2. 학생별 원외 시험 조회
 
@@ -65,6 +65,6 @@ description: 학교에서 진행된 내신 시험 또는 학원 외부에서 진
 
 입력된 원외 시험 결과는 기본메뉴 → 학생관리 → 학생관리 메뉴의 **성적결과 탭**에서 년도별로 확인할 수 있어요.
 
-<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
 
 [^1]: 우측 상단 / 좌측 하단에 위한 각각의 버튼은 동일한 역할을 합니다.&#x20;

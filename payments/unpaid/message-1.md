@@ -16,7 +16,7 @@ description: 검색 된 미납 내역을 이용해 문자 또는 결제 알림�
 
 미납 내역을 검색하고 학생이 선택된 상태에서 <img src="../../.gitbook/assets/Btn_결제문자발송.svg" alt="" data-size="original">에 마우스를 올리면 발송 유형을 선택할 수 있어요. 원하는 유형을 선택해 결제 알림톡을 보낼 수 있습니다.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * **화면에 보이는 미납 내역만 발송:**  조건을 부여해 일부 미납 항목만 검색 된 경우 화면에 보이는 미납 내역만 포함하여 결제 문자를 발송합니다. &#x20;
 * **검색 된 학생의 모든 미납 내역을 발송**: 검색 조건과 관계 없이 선택한 학생의 모든 미납 내역을 일괄 발송합니다.
