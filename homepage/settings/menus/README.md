@@ -4,20 +4,16 @@ description: 홈페이지 내에서 사용할 메뉴 및 인트로를 설정할 
 
 # 메뉴 및 인트로 설정
 
-↖ 상위항목: [홈페이지 세부 설정하기](../)
+<figure><img src="../../../.gitbook/assets/image (216).png" alt=""><figcaption></figcaption></figure>
 
-## 1. 메뉴 및 인트로
-
-<figure><img src="../../../.gitbook/assets/메뉴 및 인트로.png" alt=""><figcaption></figcaption></figure>
-
-### 1. 메뉴
+### 1️⃣ 메뉴
 
 메뉴바의 각 항목에 마우스를 올리면 하위 항목이 활성화 되며 개별 메뉴 텍스트를 눌러 들어갈 수 있습니다.
 
-바로가기: [메뉴 항목 관리 방법](menu.md) ↗
+* 설정 방법: [menu.md](menu.md "mention")→ &#x20;
 
-### 2. 인트로
+### 2️⃣ 인트로 카드
 
 클릭 시 특정 메뉴로 바로 갈 수 있는 인트로 카드를 만들 수 있습니다. 인트로를 사용하기 위해서는 반드시 메뉴 항목에 추가 되어 있어야 하며 설정에서 보이는 이미지 및 형태를 변경할 수 있습니다.
 
-바로가기: [인트로 카드 설정 방법](intro.md) ↗
+* 설정 방법: [intro.md](intro.md "mention")→&#x20;
