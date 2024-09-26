@@ -76,7 +76,7 @@ description: 직원이 맥가이에 로그인하여 사용할 수 있도록 정�
 
 시스템 사용에 대한 권한을 지정할 수 있어요
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 1. **학생 조회 권한**
    * **담당 학생만 조회** (기본값): 학급담임 또는 수업담당으로 지정된 학급의 학생들만 조회할 수 있어요.
@@ -100,7 +100,7 @@ description: 직원이 맥가이에 로그인하여 사용할 수 있도록 정�
 
 특정 상황에서 저장된 직원의 연락처로 안내 문자를 받아볼 수 있어요.
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * **직원 출/퇴근 문자**
   * 출결기를 이용해 직원의 출,퇴근 체크가 되었을 때 문자를 받습니다.

@@ -27,7 +27,7 @@ description: 학교에서 진행된 내신 시험 또는 학원 외부에서 진
 * **점수, 등급**: 획득 점수 또는 등급을 입력합니다.&#x20;
   * 입력된 값이 없어도 저장할 수 있어요.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 2) 결과 다중 추가하기
 
